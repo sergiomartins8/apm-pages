@@ -1,0 +1,222 @@
+{
+  "generated_at": "2026-07-15T08:00:00+00:00",
+  "scopes": {
+    "today": {
+      "start": "2026-07-15",
+      "end": "2026-07-15",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-07-15",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Gran Ria E",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 4,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Liliane",
+          "days": [
+            {
+              "date": "2026-07-15",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-07-15",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "iConik 1.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "week": {
+      "start": "2026-07-13",
+      "end": "2026-07-19",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-07-13",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Canal I",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-07-15",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Gran Ria E",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 4,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-07-18",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Doca 1 A 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Greenview F",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Liliane",
+          "days": [
+            {
+              "date": "2026-07-13",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 3,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-07-18",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Historia",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "next-week": {
+      "start": "2026-07-20",
+      "end": "2026-07-26",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-07-22",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
+                }
+              ]
+            },
+            {
+              "date": "2026-07-24",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Gran Ria E",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 4,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-07-22",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "iConik 1.1",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
