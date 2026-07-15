@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T20:58:31+00:00",
+  "generated_at": "2026-07-15T22:05:22+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-15",
@@ -302,10 +302,10 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 1.7 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 19
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 28 2.10",
@@ -320,6 +320,19 @@
                   "nights": 2,
                   "people": 6,
                   "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-07-18",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 18
                 }
               ]
             },
