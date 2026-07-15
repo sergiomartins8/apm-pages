@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T19:07:31+00:00",
+  "generated_at": "2026-07-15T20:58:31+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-15",
@@ -74,7 +74,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 3
+                  "empty_days": 1
                 }
               ]
             }
@@ -384,7 +384,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 3
+                  "empty_days": 1
                 }
               ]
             },
@@ -401,6 +401,13 @@
                 },
                 {
                   "property": "iConik 2.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "iConik 2.2",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
