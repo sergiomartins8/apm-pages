@@ -1,21 +1,35 @@
 {
-  "generated_at": "2026-07-15T23:58:00+00:00",
+  "generated_at": "2026-07-16T02:41:17+00:00",
   "scopes": {
     "today": {
-      "start": "2026-07-15",
-      "end": "2026-07-15",
+      "start": "2026-07-16",
+      "end": "2026-07-16",
       "teams": [
         {
           "team": "Ana Clara",
           "days": [
             {
-              "date": "2026-07-15",
-              "weekday": "Quarta",
+              "date": "2026-07-16",
+              "weekday": "Quinta",
               "checkouts": [
+                {
+                  "property": "Canal G",
+                  "back_to_back": true,
+                  "nights": 6,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Canal I",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal K",
                   "back_to_back": true,
-                  "nights": 1,
+                  "nights": 3,
                   "people": 2,
                   "empty_days": null
                 }
@@ -27,29 +41,22 @@
           "team": "Liliane",
           "days": [
             {
-              "date": "2026-07-15",
-              "weekday": "Quarta",
+              "date": "2026-07-16",
+              "weekday": "Quinta",
               "checkouts": [
                 {
-                  "property": "Blanc 18 1.6 A",
-                  "back_to_back": true,
-                  "nights": 4,
-                  "people": 2,
-                  "empty_days": null
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
                 },
                 {
-                  "property": "Blanc 18 1.7 A",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 1,
-                  "empty_days": null
-                },
-                {
-                  "property": "Gran Ria E",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 2,
-                  "empty_days": null
+                  "property": "DOCA 1 A 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             }
@@ -57,28 +64,7 @@
         },
         {
           "team": "Mara Cardoso",
-          "days": [
-            {
-              "date": "2026-07-15",
-              "weekday": "Quarta",
-              "checkouts": [
-                {
-                  "property": "iConik 1.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
-                {
-                  "property": "iConik 2.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                }
-              ]
-            }
-          ]
+          "days": []
         }
       ]
     },
