@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T08:08:51+00:00",
+  "generated_at": "2026-07-16T08:53:26+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-16",
@@ -12,6 +12,13 @@
               "date": "2026-07-16",
               "weekday": "Quinta",
               "checkouts": [
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                },
                 {
                   "property": "Canal G",
                   "back_to_back": true,
@@ -106,6 +113,13 @@
               "weekday": "Quinta",
               "checkouts": [
                 {
+                  "property": "Cais do Sal E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                },
+                {
                   "property": "Canal G",
                   "back_to_back": true,
                   "nights": 6,
@@ -137,6 +151,13 @@
                   "back_to_back": true,
                   "nights": 2,
                   "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Historia",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 },
                 {
