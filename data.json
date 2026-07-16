@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T12:21:18+00:00",
+  "generated_at": "2026-07-16T14:59:31+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-16",
@@ -319,7 +319,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Gran Ria E",
@@ -360,6 +360,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 17
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "Gran Ria E",
