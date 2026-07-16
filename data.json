@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T08:53:26+00:00",
+  "generated_at": "2026-07-16T09:44:21+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-16",
@@ -30,7 +30,7 @@
                   "property": "Canal I",
                   "back_to_back": true,
                   "nights": 1,
-                  "people": 2,
+                  "people": 3,
                   "empty_days": null
                 },
                 {
@@ -130,7 +130,7 @@
                   "property": "Canal I",
                   "back_to_back": true,
                   "nights": 1,
-                  "people": 2,
+                  "people": 3,
                   "empty_days": null
                 },
                 {
@@ -278,7 +278,7 @@
                   "property": "Gran Ria E",
                   "back_to_back": true,
                   "nights": 2,
-                  "people": 2,
+                  "people": 6,
                   "empty_days": null
                 }
               ]
@@ -376,7 +376,7 @@
                   "property": "iConik 1.2",
                   "back_to_back": true,
                   "nights": 3,
-                  "people": 2,
+                  "people": 3,
                   "empty_days": null
                 },
                 {
@@ -544,7 +544,7 @@
                   "property": "iConik 1.1",
                   "back_to_back": true,
                   "nights": 4,
-                  "people": 2,
+                  "people": 3,
                   "empty_days": null
                 }
               ]
@@ -590,7 +590,7 @@
                   "property": "iConik 1.1",
                   "back_to_back": true,
                   "nights": 4,
-                  "people": 2,
+                  "people": 4,
                   "empty_days": null
                 }
               ]
