@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T18:04:38+00:00",
+  "generated_at": "2026-07-16T20:02:23+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-16",
@@ -198,7 +198,7 @@
                   "property": "Ria Laço F",
                   "back_to_back": true,
                   "nights": 2,
-                  "people": 1,
+                  "people": 3,
                   "empty_days": null
                 }
               ]
