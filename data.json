@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T22:02:09+00:00",
+  "generated_at": "2026-07-16T23:57:27+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-16",
@@ -155,9 +155,9 @@
                 },
                 {
                   "property": "Historia",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
@@ -196,10 +196,10 @@
                 },
                 {
                   "property": "GreenView F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Ria Laço F",
@@ -255,6 +255,20 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                },
+                {
+                  "property": "GreenView F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Historia",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "Ruela 96",
