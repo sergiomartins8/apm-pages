@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T20:02:23+00:00",
+  "generated_at": "2026-07-16T22:02:09+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-16",
@@ -17,7 +17,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 2
+                  "empty_days": 1
                 },
                 {
                   "property": "Canal G",
@@ -117,7 +117,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 2
+                  "empty_days": 1
                 },
                 {
                   "property": "Canal G",
@@ -181,11 +181,18 @@
                   "empty_days": 1
                 },
                 {
+                  "property": "Cais do Sal E",
+                  "back_to_back": true,
+                  "nights": 9,
+                  "people": 4,
+                  "empty_days": null
+                },
+                {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView F",
@@ -209,10 +216,10 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 11
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Beira Ria Loft",
@@ -234,6 +241,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 6
+                },
+                {
+                  "property": "Canal L",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 },
                 {
                   "property": "GreenView D",
@@ -517,6 +531,13 @@
               "date": "2026-07-24",
               "weekday": "Sexta",
               "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 6
+                },
                 {
                   "property": "Beira Ria 2",
                   "back_to_back": false,
