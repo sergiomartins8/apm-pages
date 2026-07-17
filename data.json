@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T20:04:49+00:00",
+  "generated_at": "2026-07-17T21:52:01+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-17",
@@ -714,7 +714,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 18
                 },
                 {
                   "property": "Ruela 96",
