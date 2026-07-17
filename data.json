@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T05:40:22+00:00",
+  "generated_at": "2026-07-17T07:10:05+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-17",
@@ -53,10 +53,10 @@
                 },
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Gran Ria E",
@@ -100,6 +100,94 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-07-18",
+      "end": "2026-07-18",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-07-18",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Beira Ria 2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": true,
+                  "nights": 9,
+                  "people": 4,
+                  "empty_days": null
+                },
+                {
+                  "property": "Canal L",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "GreenView F",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Liliane",
+          "days": [
+            {
+              "date": "2026-07-18",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 5,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": []
         }
       ]
     },
@@ -372,10 +460,10 @@
                 },
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Gran Ria E",
@@ -392,6 +480,13 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 1.7 A",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 28 2.10",
                   "back_to_back": true,
                   "nights": 1,
                   "people": 2,
