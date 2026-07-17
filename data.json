@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T10:45:28+00:00",
+  "generated_at": "2026-07-17T12:08:07+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-17",
@@ -85,10 +85,10 @@
                 },
                 {
                   "property": "iConik 2.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 2.2",
@@ -187,7 +187,21 @@
         },
         {
           "team": "Mara Cardoso",
-          "days": []
+          "days": [
+            {
+              "date": "2026-07-18",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "iConik 2.1",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 3,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -517,7 +531,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 17
+                  "empty_days": 6
                 },
                 {
                   "property": "Blanc 28 2.10",
@@ -593,10 +607,10 @@
                 },
                 {
                   "property": "iConik 2.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 2.2",
@@ -604,6 +618,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                }
+              ]
+            },
+            {
+              "date": "2026-07-18",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "iConik 2.1",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 3,
+                  "empty_days": null
                 }
               ]
             },
