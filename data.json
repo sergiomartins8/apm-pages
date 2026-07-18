@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T16:55:49+00:00",
+  "generated_at": "2026-07-18T17:55:53+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-18",
@@ -204,10 +204,10 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 1.6 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 18 1.7 A",
@@ -577,10 +577,10 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 1.6 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 18 1.7 A",
@@ -833,6 +833,19 @@
         {
           "team": "Liliane",
           "days": [
+            {
+              "date": "2026-07-23",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            },
             {
               "date": "2026-07-24",
               "weekday": "Sexta",
