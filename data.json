@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T09:22:34+00:00",
+  "generated_at": "2026-07-18T11:01:23+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-18",
@@ -246,7 +246,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 5
+                  "empty_days": 1
                 }
               ]
             }
@@ -706,7 +706,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 5
+                  "empty_days": 1
                 }
               ]
             }
@@ -740,9 +740,9 @@
               "checkouts": [
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -784,6 +784,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 3
+                },
+                {
+                  "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal K",
@@ -913,6 +920,13 @@
                   "back_to_back": true,
                   "nights": 4,
                   "people": 4,
+                  "empty_days": null
+                },
+                {
+                  "property": "iConik 3.1",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 6,
                   "empty_days": null
                 }
               ]
