@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T15:54:44+00:00",
+  "generated_at": "2026-07-18T16:55:49+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-18",
@@ -140,7 +140,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 20
+                  "empty_days": 1
                 },
                 {
                   "property": "Canal I",
@@ -419,7 +419,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 20
+                  "empty_days": 1
                 },
                 {
                   "property": "Canal I",
@@ -764,6 +764,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 5
+                }
+              ]
+            },
+            {
+              "date": "2026-07-23",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 16
                 }
               ]
             },
