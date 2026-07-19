@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T13:12:19+00:00",
+  "generated_at": "2026-07-19T14:53:35+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-19",
@@ -49,10 +49,10 @@
                 },
                 {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView D",
@@ -156,6 +156,13 @@
               "date": "2026-07-20",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "Canal L",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "Ria Laço F",
                   "back_to_back": false,
@@ -374,10 +381,10 @@
                 },
                 {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView D",
@@ -662,6 +669,13 @@
               "date": "2026-07-20",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "Canal L",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "Ria Laço F",
                   "back_to_back": false,
