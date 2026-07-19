@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T11:56:00+00:00",
+  "generated_at": "2026-07-19T13:12:19+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-19",
@@ -690,10 +690,10 @@
               "checkouts": [
                 {
                   "property": "Canal G",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 18
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Ruela 96",
@@ -734,6 +734,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 3
+                },
+                {
+                  "property": "Canal G",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 16
                 },
                 {
                   "property": "Canal I",
