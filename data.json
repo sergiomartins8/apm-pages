@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T10:17:27+00:00",
+  "generated_at": "2026-07-20T12:19:47+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-20",
@@ -203,7 +203,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 5
                 },
                 {
                   "property": "Canal K",
