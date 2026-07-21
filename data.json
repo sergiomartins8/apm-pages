@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T11:07:14+00:00",
+  "generated_at": "2026-07-21T13:43:12+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-21",
@@ -74,10 +74,10 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
+                  "empty_days": null
                 }
               ]
             }
@@ -167,10 +167,10 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
+                  "empty_days": null
                 }
               ]
             },
@@ -239,6 +239,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                }
+              ]
+            },
+            {
+              "date": "2026-07-25",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
                 }
               ]
             },
@@ -370,10 +383,10 @@
               "checkouts": [
                 {
                   "property": "iConik 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 11
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 2.1",
@@ -393,6 +406,13 @@
                   "back_to_back": true,
                   "nights": 4,
                   "people": 4,
+                  "empty_days": null
+                },
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -553,6 +573,13 @@
               "date": "2026-07-27",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 7
+                },
                 {
                   "property": "iConik 2.2",
                   "back_to_back": false,
