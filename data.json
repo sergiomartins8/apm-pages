@@ -1,60 +1,7 @@
 {
-  "generated_at": "2026-07-20T23:59:01+00:00",
+  "generated_at": "2026-07-21T02:59:29+00:00",
   "scopes": {
     "today": {
-      "start": "2026-07-20",
-      "end": "2026-07-20",
-      "teams": [
-        {
-          "team": "Ana Clara",
-          "days": [
-            {
-              "date": "2026-07-20",
-              "weekday": "Segunda",
-              "checkouts": [
-                {
-                  "property": "Canal L",
-                  "back_to_back": true,
-                  "nights": 4,
-                  "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Ria Laço F",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 1,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Liliane",
-          "days": []
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": [
-            {
-              "date": "2026-07-20",
-              "weekday": "Segunda",
-              "checkouts": [
-                {
-                  "property": "iConik 1.1",
-                  "back_to_back": true,
-                  "nights": 4,
-                  "people": 3,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-07-21",
       "end": "2026-07-21",
       "teams": [
@@ -97,6 +44,66 @@
         {
           "team": "Mara Cardoso",
           "days": []
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-07-22",
+      "end": "2026-07-22",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-07-22",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "Canal G",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": true,
+                  "nights": 12,
+                  "people": 1,
+                  "empty_days": null
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-07-22",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "iConik 2.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                }
+              ]
+            }
+          ]
         }
       ]
     },
