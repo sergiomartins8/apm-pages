@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T05:56:42+00:00",
+  "generated_at": "2026-07-21T08:24:00+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-21",
@@ -207,10 +207,10 @@
                 },
                 {
                   "property": "Canal G",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 16
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal I",
@@ -239,6 +239,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                }
+              ]
+            },
+            {
+              "date": "2026-07-26",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Canal G",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 14
                 }
               ]
             }
