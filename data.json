@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T17:15:43+00:00",
+  "generated_at": "2026-07-21T19:17:47+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-21",
@@ -228,10 +228,10 @@
                 },
                 {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 11
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView D",
@@ -465,6 +465,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 15
+                },
+                {
+                  "property": "Canal L",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 8
                 }
               ]
             },
