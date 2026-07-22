@@ -1,53 +1,7 @@
 {
-  "generated_at": "2026-07-21T23:55:05+00:00",
+  "generated_at": "2026-07-22T02:23:57+00:00",
   "scopes": {
     "today": {
-      "start": "2026-07-21",
-      "end": "2026-07-21",
-      "teams": [
-        {
-          "team": "Ana Clara",
-          "days": [
-            {
-              "date": "2026-07-21",
-              "weekday": "Terça",
-              "checkouts": [
-                {
-                  "property": "Canal I",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 2,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Liliane",
-          "days": [
-            {
-              "date": "2026-07-21",
-              "weekday": "Terça",
-              "checkouts": [
-                {
-                  "property": "Blanc 28 2.10",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 1,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": []
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-07-22",
       "end": "2026-07-22",
       "teams": [
@@ -100,6 +54,73 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-07-23",
+      "end": "2026-07-23",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-07-23",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Liliane",
+          "days": [
+            {
+              "date": "2026-07-23",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-07-23",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "iConik 2.1",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
+                  "empty_days": null
                 }
               ]
             }
