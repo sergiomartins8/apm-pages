@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T12:23:19+00:00",
+  "generated_at": "2026-07-23T15:07:29+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-23",
@@ -148,9 +148,9 @@
                 },
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
                   "empty_days": null
                 },
                 {
@@ -410,9 +410,9 @@
                 },
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
                   "empty_days": null
                 },
                 {
@@ -650,6 +650,19 @@
         {
           "team": "Liliane",
           "days": [
+            {
+              "date": "2026-07-27",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
             {
               "date": "2026-07-30",
               "weekday": "Quinta",
