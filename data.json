@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T15:07:29+00:00",
+  "generated_at": "2026-07-23T17:19:42+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-23",
@@ -88,10 +88,10 @@
                 },
                 {
                   "property": "Beira Ria 2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 4,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal G",
@@ -291,10 +291,10 @@
                 },
                 {
                   "property": "Beira Ria 2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 4,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal G",
@@ -356,6 +356,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 4
+                },
+                {
+                  "property": "Beira Ria 2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 },
                 {
                   "property": "Canal G",
