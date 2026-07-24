@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T21:00:45+00:00",
+  "generated_at": "2026-07-24T22:12:55+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-24",
@@ -56,10 +56,10 @@
                 },
                 {
                   "property": "GreenView D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -142,6 +142,13 @@
               "date": "2026-07-25",
               "weekday": "Sábado",
               "checkouts": [
+                {
+                  "property": "GreenView D",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 3,
+                  "empty_days": null
+                },
                 {
                   "property": "Ruela 96",
                   "back_to_back": true,
@@ -319,10 +326,10 @@
                 },
                 {
                   "property": "GreenView D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -330,6 +337,13 @@
               "date": "2026-07-25",
               "weekday": "Sábado",
               "checkouts": [
+                {
+                  "property": "GreenView D",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 3,
+                  "empty_days": null
+                },
                 {
                   "property": "Ruela 96",
                   "back_to_back": true,
