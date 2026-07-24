@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:02:22+00:00",
+  "generated_at": "2026-07-24T13:38:47+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-24",
@@ -531,7 +531,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 13
+                  "empty_days": 1
                 }
               ]
             }
@@ -643,9 +643,9 @@
               "checkouts": [
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 4,
                   "empty_days": null
                 }
               ]
@@ -673,6 +673,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 5
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "DOCA 1 A 1.2",
@@ -751,6 +758,13 @@
               "date": "2026-07-29",
               "weekday": "Quarta",
               "checkouts": [
+                {
+                  "property": "iConik 2.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 10
+                },
                 {
                   "property": "iConik 3.1",
                   "back_to_back": false,
