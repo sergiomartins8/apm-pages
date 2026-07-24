@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:24:46+00:00",
+  "generated_at": "2026-07-24T17:28:13+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-24",
@@ -144,10 +144,10 @@
               "checkouts": [
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -332,10 +332,10 @@
               "checkouts": [
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -363,6 +363,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 2
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             }
