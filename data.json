@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T09:18:57+00:00",
+  "generated_at": "2026-07-24T11:02:22+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-24",
@@ -720,10 +720,10 @@
               "checkouts": [
                 {
                   "property": "iConik 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 7
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 2.2",
@@ -757,6 +757,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 5
+                }
+              ]
+            },
+            {
+              "date": "2026-07-30",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 4
                 }
               ]
             }
