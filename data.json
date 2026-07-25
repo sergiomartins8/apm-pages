@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T13:19:08+00:00",
+  "generated_at": "2026-07-25T15:01:33+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-25",
@@ -138,10 +138,10 @@
               "checkouts": [
                 {
                   "property": "iConik 2.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -514,10 +514,10 @@
               "checkouts": [
                 {
                   "property": "iConik 2.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -541,7 +541,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 12
+                  "empty_days": 1
                 },
                 {
                   "property": "Cais do Sal E",
@@ -602,6 +602,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 4
+                }
+              ]
+            },
+            {
+              "date": "2026-07-31",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 8
                 }
               ]
             },
@@ -749,6 +762,13 @@
                   "back_to_back": true,
                   "nights": 3,
                   "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "iConik 2.1",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
