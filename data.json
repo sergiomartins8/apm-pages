@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T17:57:21+00:00",
+  "generated_at": "2026-07-25T19:07:32+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-25",
@@ -81,10 +81,10 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Beira Ria 2",
@@ -317,10 +317,10 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Beira Ria 2",
@@ -536,6 +536,13 @@
               "date": "2026-07-27",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
+                },
                 {
                   "property": "Beira Ria Loft",
                   "back_to_back": false,
