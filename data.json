@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T13:14:57+00:00",
+  "generated_at": "2026-07-26T15:03:22+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-26",
@@ -119,7 +119,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 8
+                  "empty_days": 1
                 }
               ]
             }
@@ -597,7 +597,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 8
+                  "empty_days": 1
                 }
               ]
             },
