@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T08:29:02+00:00",
+  "generated_at": "2026-07-27T09:54:32+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-27",
@@ -14,10 +14,10 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Beira Ria Loft",
@@ -262,6 +262,13 @@
               "date": "2026-07-30",
               "weekday": "Quinta",
               "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": true,
+                  "nights": 10,
+                  "people": 3,
+                  "empty_days": null
+                },
                 {
                   "property": "GreenView F",
                   "back_to_back": false,
