@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T18:13:31+00:00",
+  "generated_at": "2026-07-28T20:15:51+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-28",
@@ -460,7 +460,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 4
+                  "empty_days": 1
                 }
               ]
             },
@@ -481,6 +481,13 @@
               "date": "2026-08-02",
               "weekday": "Domingo",
               "checkouts": [
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
                 {
                   "property": "iConik 3.1",
                   "back_to_back": false,
