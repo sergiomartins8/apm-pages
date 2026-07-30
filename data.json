@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T09:42:27+00:00",
+  "generated_at": "2026-07-30T20:21:32+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-30",
@@ -64,10 +64,10 @@
               "checkouts": [
                 {
                   "property": "iConik 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 2.1",
@@ -149,6 +149,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                },
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -297,10 +304,10 @@
                 },
                 {
                   "property": "GreenView D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -499,10 +506,10 @@
               "checkouts": [
                 {
                   "property": "iConik 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 2.1",
@@ -523,6 +530,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                },
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -570,9 +584,9 @@
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -593,6 +607,26 @@
                   "back_to_back": true,
                   "nights": 10,
                   "people": 2,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-08-05",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "GreenView D",
+                  "back_to_back": true,
+                  "nights": 14,
+                  "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 }
               ]
@@ -772,10 +806,10 @@
                 },
                 {
                   "property": "iConik 2.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 8
+                  "back_to_back": true,
+                  "nights": 8,
+                  "people": 3,
+                  "empty_days": null
                 }
               ]
             },
