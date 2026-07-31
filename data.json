@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T08:35:14+00:00",
+  "generated_at": "2026-07-31T18:18:45+00:00",
   "scopes": {
     "today": {
       "start": "2026-07-31",
@@ -120,10 +120,10 @@
               "checkouts": [
                 {
                   "property": "Blanc 7 2.3",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             }
@@ -380,10 +380,10 @@
               "checkouts": [
                 {
                   "property": "Blanc 7 2.3",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             },
@@ -404,6 +404,13 @@
                   "nights": 12,
                   "people": 1,
                   "empty_days": null
+                },
+                {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             }
