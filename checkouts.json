@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T09:24:42+00:00",
+  "generated_at": "2026-08-05T10:01:11+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-05",
@@ -117,10 +117,10 @@
               "checkouts": [
                 {
                   "property": "Beira Ria Loft",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal G",
@@ -294,10 +294,10 @@
               "checkouts": [
                 {
                   "property": "Beira Ria Loft",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal G",
@@ -339,6 +339,13 @@
               "date": "2026-08-08",
               "weekday": "Sábado",
               "checkouts": [
+                {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 3,
+                  "empty_days": null
+                },
                 {
                   "property": "Ria Laço F",
                   "back_to_back": true,
