@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T05:02:45+00:00",
+  "generated_at": "2026-08-09T17:30:10+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-09",
@@ -946,9 +946,9 @@
               "checkouts": [
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 3,
                   "empty_days": null
                 },
                 {
@@ -996,7 +996,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 44
                 }
               ]
             }
