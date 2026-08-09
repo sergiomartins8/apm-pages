@@ -1,103 +1,7 @@
 {
-  "generated_at": "2026-08-08T17:27:41+00:00",
+  "generated_at": "2026-08-09T05:02:45+00:00",
   "scopes": {
     "today": {
-      "start": "2026-08-08",
-      "end": "2026-08-08",
-      "teams": [
-        {
-          "team": "Ana Clara",
-          "days": [
-            {
-              "date": "2026-08-08",
-              "weekday": "Sábado",
-              "checkouts": [
-                {
-                  "property": "Beira Ria Loft",
-                  "back_to_back": true,
-                  "nights": 7,
-                  "people": 3,
-                  "empty_days": null
-                },
-                {
-                  "property": "Ria Laço F",
-                  "back_to_back": true,
-                  "nights": 7,
-                  "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "White 405",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 2,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Helga Carvalho",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": [
-            {
-              "date": "2026-08-08",
-              "weekday": "Sábado",
-              "checkouts": [
-                {
-                  "property": "DOCA 1 A 1.2",
-                  "back_to_back": true,
-                  "nights": 12,
-                  "people": 4,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": [
-            {
-              "date": "2026-08-08",
-              "weekday": "Sábado",
-              "checkouts": [
-                {
-                  "property": "iConik 2.1",
-                  "back_to_back": true,
-                  "nights": 7,
-                  "people": 2,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Sirlane Fernandes",
-          "days": [
-            {
-              "date": "2026-08-08",
-              "weekday": "Sábado",
-              "checkouts": [
-                {
-                  "property": "Blanc 28 2.10",
-                  "back_to_back": true,
-                  "nights": 1,
-                  "people": 3,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-08-09",
       "end": "2026-08-09",
       "teams": [
@@ -197,6 +101,74 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-08-10",
+      "end": "2026-08-10",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-08-10",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Beira Ria 2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "GreenView F",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 4,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Helga Carvalho",
+          "days": []
+        },
+        {
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-08-10",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "iConik 1.1",
+                  "back_to_back": true,
+                  "nights": 6,
+                  "people": 4,
+                  "empty_days": null
+                },
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": true,
+                  "nights": 6,
+                  "people": 3,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Sirlane Fernandes",
+          "days": []
         }
       ]
     },
