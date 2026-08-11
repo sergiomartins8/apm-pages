@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:38:53+00:00",
+  "generated_at": "2026-08-11T17:57:02+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-11",
@@ -435,10 +435,10 @@
                 },
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 14
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -642,6 +642,19 @@
         {
           "team": "Sirlane",
           "days": [
+            {
+              "date": "2026-08-17",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 11
+                }
+              ]
+            },
             {
               "date": "2026-08-18",
               "weekday": "Terça",
