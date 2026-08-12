@@ -1,82 +1,7 @@
 {
-  "generated_at": "2026-08-11T17:57:02+00:00",
+  "generated_at": "2026-08-12T05:30:21+00:00",
   "scopes": {
     "today": {
-      "start": "2026-08-11",
-      "end": "2026-08-11",
-      "teams": [
-        {
-          "team": "Ana Clara",
-          "days": [
-            {
-              "date": "2026-08-11",
-              "weekday": "Terça",
-              "checkouts": [
-                {
-                  "property": "Beira Ria 2",
-                  "back_to_back": true,
-                  "nights": 5,
-                  "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Cais do Sal E",
-                  "back_to_back": true,
-                  "nights": 5,
-                  "people": 3,
-                  "empty_days": null
-                },
-                {
-                  "property": "Ruela 96",
-                  "back_to_back": true,
-                  "nights": 9,
-                  "people": 3,
-                  "empty_days": null
-                },
-                {
-                  "property": "White 405",
-                  "back_to_back": true,
-                  "nights": 4,
-                  "people": 2,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Helga Carvalho",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": [
-            {
-              "date": "2026-08-11",
-              "weekday": "Terça",
-              "checkouts": [
-                {
-                  "property": "DOCA 2 A 0.6",
-                  "back_to_back": true,
-                  "nights": 7,
-                  "people": 3,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": []
-        },
-        {
-          "team": "Sirlane",
-          "days": []
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-08-12",
       "end": "2026-08-12",
       "teams": [
@@ -113,6 +38,81 @@
         {
           "team": "Sirlane",
           "days": []
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-08-13",
+      "end": "2026-08-13",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-08-13",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Helga Carvalho",
+          "days": []
+        },
+        {
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-08-13",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "iConik 3.1",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 3,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Sirlane",
+          "days": [
+            {
+              "date": "2026-08-13",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "Gran Ria E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 4
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -508,6 +508,19 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-08-21",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": true,
+                  "nights": 16,
+                  "people": 1,
                   "empty_days": null
                 }
               ]
