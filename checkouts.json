@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T05:30:21+00:00",
+  "generated_at": "2026-08-12T17:56:44+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-12",
@@ -22,9 +22,9 @@
               "checkouts": [
                 {
                   "property": "Historia",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 10,
+                  "people": 1,
                   "empty_days": null
                 }
               ]
@@ -54,10 +54,10 @@
               "checkouts": [
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             }
@@ -183,10 +183,10 @@
               "checkouts": [
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             },
@@ -200,6 +200,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 3
+                },
+                {
+                  "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 },
                 {
                   "property": "Canal L",
@@ -268,6 +275,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 3
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             }
@@ -299,9 +313,9 @@
               "checkouts": [
                 {
                   "property": "Historia",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 10,
+                  "people": 1,
                   "empty_days": null
                 }
               ]
@@ -585,6 +599,19 @@
                   "empty_days": null
                 }
               ]
+            },
+            {
+              "date": "2026-08-22",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Historia",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
             }
           ]
         },
@@ -607,7 +634,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 15
                 }
               ]
             },
