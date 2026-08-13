@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T09:47:06+00:00",
+  "generated_at": "2026-08-13T11:42:09+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-13",
@@ -117,9 +117,9 @@
                 },
                 {
                   "property": "Palacete Q",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
                   "empty_days": null
                 }
               ]
@@ -287,9 +287,9 @@
                 },
                 {
                   "property": "Palacete Q",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
                   "empty_days": null
                 }
               ]
@@ -352,6 +352,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                },
+                {
+                  "property": "Palacete Q",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -797,7 +804,7 @@
                   "empty_days": 35
                 },
                 {
-                  "property": "SQUARE B",
+                  "property": "Square B",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,

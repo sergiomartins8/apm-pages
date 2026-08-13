@@ -1,13 +1,13 @@
 {
   "buildings": [
     {
-      "name": "SQUARE",
+      "name": "Square",
       "codes": {
         "building": "#5484#"
       },
       "units": [
         {
-          "name": "SQUARE B",
+          "name": "Square B",
           "lock": "lockin"
         }
       ]
