@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T17:57:16+00:00",
+  "generated_at": "2026-08-13T21:11:37+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-13",
@@ -344,7 +344,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Cais do Sal E",
@@ -369,9 +369,9 @@
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -629,6 +629,13 @@
               "weekday": "Quinta",
               "checkouts": [
                 {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Palacete Q",
                   "back_to_back": false,
                   "nights": null,
@@ -648,6 +655,13 @@
               "date": "2026-08-21",
               "weekday": "Sexta",
               "checkouts": [
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Tomasias 23 A",
                   "back_to_back": true,
