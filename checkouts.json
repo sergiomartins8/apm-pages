@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T11:42:09+00:00",
+  "generated_at": "2026-08-13T17:57:16+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-13",
@@ -300,16 +300,16 @@
               "checkouts": [
                 {
                   "property": "Beira Ria Loft",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -340,6 +340,13 @@
                   "empty_days": 1
                 },
                 {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Cais do Sal E",
                   "back_to_back": false,
                   "nights": null,
@@ -355,6 +362,13 @@
                 },
                 {
                   "property": "Palacete Q",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Ria Laço F",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -614,6 +628,13 @@
               "date": "2026-08-20",
               "weekday": "Quinta",
               "checkouts": [
+                {
+                  "property": "Palacete Q",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Ruela 96",
                   "back_to_back": false,
