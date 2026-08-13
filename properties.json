@@ -254,6 +254,18 @@
           "lock": "lockin"
         }
       ]
+    },
+    {
+      "name": "Palacete",
+      "codes": {
+        "building": "#9166#"
+      },
+      "units": [
+        {
+          "name": "Palacete Q",
+          "lock": "tedee"
+        }
+      ]
     }
   ]
 }

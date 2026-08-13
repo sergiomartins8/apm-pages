@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:39:48+00:00",
+  "generated_at": "2026-08-13T09:47:06+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-13",
@@ -113,6 +113,13 @@
                   "back_to_back": true,
                   "nights": 12,
                   "people": 5,
+                  "empty_days": null
+                },
+                {
+                  "property": "Palacete Q",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 }
               ]
@@ -277,6 +284,13 @@
                   "nights": 12,
                   "people": 5,
                   "empty_days": null
+                },
+                {
+                  "property": "Palacete Q",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
@@ -357,19 +371,6 @@
         {
           "team": "Liliane",
           "days": [
-            {
-              "date": "2026-08-11",
-              "weekday": "Terça",
-              "checkouts": [
-                {
-                  "property": "DOCA 2 A 0.6",
-                  "back_to_back": true,
-                  "nights": 7,
-                  "people": 3,
-                  "empty_days": null
-                }
-              ]
-            },
             {
               "date": "2026-08-12",
               "weekday": "Quarta",
@@ -479,6 +480,19 @@
         {
           "team": "Sirlane",
           "days": [
+            {
+              "date": "2026-08-11",
+              "weekday": "Terça",
+              "checkouts": [
+                {
+                  "property": "DOCA 2 A 0.6",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 3,
+                  "empty_days": null
+                }
+              ]
+            },
             {
               "date": "2026-08-13",
               "weekday": "Quinta",
