@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-08-12T17:56:44+00:00",
+  "generated_at": "2026-08-13T05:39:48+00:00",
   "scopes": {
     "today": {
-      "start": "2026-08-12",
-      "end": "2026-08-12",
-      "teams": [
-        {
-          "team": "Ana Clara",
-          "days": []
-        },
-        {
-          "team": "Helga Carvalho",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": [
-            {
-              "date": "2026-08-12",
-              "weekday": "Quarta",
-              "checkouts": [
-                {
-                  "property": "Historia",
-                  "back_to_back": true,
-                  "nights": 10,
-                  "people": 1,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": []
-        },
-        {
-          "team": "Sirlane",
-          "days": []
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-08-13",
       "end": "2026-08-13",
       "teams": [
@@ -109,6 +69,102 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-08-14",
+      "end": "2026-08-14",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-08-14",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Canal G",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Canal L",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "GreenView F",
+                  "back_to_back": true,
+                  "nights": 12,
+                  "people": 5,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Helga Carvalho",
+          "days": []
+        },
+        {
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-08-14",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "iConik 2.2",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Sirlane",
+          "days": [
+            {
+              "date": "2026-08-14",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": true,
+                  "nights": 27,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -196,10 +252,10 @@
               "checkouts": [
                 {
                   "property": "Canal G",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal I",
@@ -210,10 +266,10 @@
                 },
                 {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView F",
@@ -275,6 +331,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 3
+                },
+                {
+                  "property": "Canal G",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -487,6 +550,19 @@
         {
           "team": "Ana Clara",
           "days": [
+            {
+              "date": "2026-08-17",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Canal L",
+                  "back_to_back": true,
+                  "nights": 6,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            },
             {
               "date": "2026-08-18",
               "weekday": "Terça",
