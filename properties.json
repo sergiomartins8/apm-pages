@@ -266,6 +266,18 @@
           "lock": "tedee"
         }
       ]
+    },
+    {
+      "name": "Vela Marina 270",
+      "codes": {
+        "building": "1792"
+      },
+      "units": [
+        {
+          "name": "Vela Marina FF",
+          "lock": "lockbox"
+        }
+      ]
     }
   ]
 }

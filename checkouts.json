@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T05:31:20+00:00",
+  "generated_at": "2026-08-14T16:15:10+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-14",
@@ -21,10 +21,10 @@
                 },
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal L",
@@ -39,13 +39,6 @@
                   "nights": 12,
                   "people": 5,
                   "empty_days": null
-                },
-                {
-                  "property": "Palacete Q",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 3,
-                  "empty_days": null
                 }
               ]
             }
@@ -57,7 +50,21 @@
         },
         {
           "team": "Liliane",
-          "days": []
+          "days": [
+            {
+              "date": "2026-08-14",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Palacete Q",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Mara Cardoso",
@@ -123,6 +130,13 @@
                   "empty_days": null
                 },
                 {
+                  "property": "Canal I",
+                  "back_to_back": true,
+                  "nights": 20,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
                   "property": "Ria Laço F",
                   "back_to_back": true,
                   "nights": 1,
@@ -134,7 +148,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 }
               ]
             }
@@ -259,10 +273,10 @@
                 },
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal L",
@@ -276,13 +290,6 @@
                   "back_to_back": true,
                   "nights": 12,
                   "people": 5,
-                  "empty_days": null
-                },
-                {
-                  "property": "Palacete Q",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 3,
                   "empty_days": null
                 }
               ]
@@ -299,6 +306,13 @@
                   "empty_days": null
                 },
                 {
+                  "property": "Canal I",
+                  "back_to_back": true,
+                  "nights": 20,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
                   "property": "Ria Laço F",
                   "back_to_back": true,
                   "nights": 1,
@@ -310,7 +324,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 }
               ]
             },
@@ -344,7 +358,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 3
+                  "empty_days": 1
                 },
                 {
                   "property": "Canal G",
@@ -394,6 +408,19 @@
                   "back_to_back": true,
                   "nights": 10,
                   "people": 1,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-08-14",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Palacete Q",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
                   "empty_days": null
                 }
               ]
@@ -616,6 +643,13 @@
               "weekday": "Quarta",
               "checkouts": [
                 {
+                  "property": "Cais do Sal E",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 1,
+                  "empty_days": null
+                },
+                {
                   "property": "GreenView D",
                   "back_to_back": false,
                   "nights": null,
@@ -681,6 +715,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 15
+                },
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
@@ -820,10 +861,10 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 11
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -851,6 +892,13 @@
               "date": "2026-08-21",
               "weekday": "Sexta",
               "checkouts": [
+                {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 7
+                },
                 {
                   "property": "Blanc 7 2.3",
                   "back_to_back": false,
