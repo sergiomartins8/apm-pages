@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T04:33:36+00:00",
+  "generated_at": "2026-08-16T10:31:46+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-16",
@@ -28,27 +28,13 @@
                 },
                 {
                   "property": "Beira Ria Loft",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
-                {
-                  "property": "Cais do Sal E",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal G",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
-                {
-                  "property": "Palacete Q",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -78,7 +64,28 @@
         },
         {
           "team": "Liliane",
-          "days": []
+          "days": [
+            {
+              "date": "2026-08-16",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Palacete Q",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Mara Cardoso",
@@ -157,6 +164,13 @@
               "date": "2026-08-17",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 4,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal L",
                   "back_to_back": true,
@@ -369,27 +383,13 @@
                 },
                 {
                   "property": "Beira Ria Loft",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
-                {
-                  "property": "Cais do Sal E",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal G",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
-                {
-                  "property": "Palacete Q",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -443,6 +443,26 @@
                   "nights": 2,
                   "people": 3,
                   "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-08-16",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Palacete Q",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             }
@@ -638,6 +658,13 @@
               "weekday": "Segunda",
               "checkouts": [
                 {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 4,
+                  "empty_days": null
+                },
+                {
                   "property": "Canal L",
                   "back_to_back": true,
                   "nights": 6,
@@ -702,7 +729,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 5
                 },
                 {
                   "property": "Ruela 96",
@@ -929,9 +956,9 @@
                 },
                 {
                   "property": "Square B",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 4,
                   "empty_days": null
                 }
               ]
@@ -960,6 +987,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 39
+                }
+              ]
+            },
+            {
+              "date": "2026-08-22",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Square B",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             }
