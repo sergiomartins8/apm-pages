@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:14:01+00:00",
+  "generated_at": "2026-08-17T09:33:49+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-17",
@@ -36,7 +36,21 @@
         },
         {
           "team": "Liliane",
-          "days": []
+          "days": [
+            {
+              "date": "2026-08-17",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Gran Ria E",
+                  "back_to_back": true,
+                  "nights": 16,
+                  "people": 1,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Mara Cardoso",
@@ -75,13 +89,6 @@
                   "back_to_back": true,
                   "nights": 4,
                   "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Gran Ria E",
-                  "back_to_back": true,
-                  "nights": 16,
-                  "people": 1,
                   "empty_days": null
                 }
               ]
@@ -343,6 +350,19 @@
           "team": "Liliane",
           "days": [
             {
+              "date": "2026-08-17",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Gran Ria E",
+                  "back_to_back": true,
+                  "nights": 16,
+                  "people": 1,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
               "date": "2026-08-18",
               "weekday": "Terça",
               "checkouts": [
@@ -492,13 +512,6 @@
                   "back_to_back": true,
                   "nights": 4,
                   "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Gran Ria E",
-                  "back_to_back": true,
-                  "nights": 16,
-                  "people": 1,
                   "empty_days": null
                 }
               ]
