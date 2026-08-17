@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T04:39:18+00:00",
+  "generated_at": "2026-08-17T07:14:01+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-17",
@@ -560,13 +560,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 31
-                },
-                {
-                  "property": "Square B",
-                  "back_to_back": true,
-                  "nights": 1,
-                  "people": 1,
-                  "empty_days": null
                 }
               ]
             },
