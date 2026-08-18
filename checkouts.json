@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:33:26+00:00",
+  "generated_at": "2026-08-18T17:25:18+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-18",
@@ -251,9 +251,9 @@
               "checkouts": [
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
@@ -309,6 +309,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 13
+                },
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             }
