@@ -1,103 +1,7 @@
 {
-  "generated_at": "2026-08-17T17:25:06+00:00",
+  "generated_at": "2026-08-18T04:33:26+00:00",
   "scopes": {
     "today": {
-      "start": "2026-08-17",
-      "end": "2026-08-17",
-      "teams": [
-        {
-          "team": "Ana Clara",
-          "days": [
-            {
-              "date": "2026-08-17",
-              "weekday": "Segunda",
-              "checkouts": [
-                {
-                  "property": "Beira Ria Loft",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 4,
-                  "empty_days": null
-                },
-                {
-                  "property": "Canal L",
-                  "back_to_back": true,
-                  "nights": 6,
-                  "people": 2,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Helga Carvalho",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": [
-            {
-              "date": "2026-08-17",
-              "weekday": "Segunda",
-              "checkouts": [
-                {
-                  "property": "Gran Ria E",
-                  "back_to_back": true,
-                  "nights": 16,
-                  "people": 1,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": [
-            {
-              "date": "2026-08-17",
-              "weekday": "Segunda",
-              "checkouts": [
-                {
-                  "property": "iConik 0.1",
-                  "back_to_back": true,
-                  "nights": 7,
-                  "people": 2,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Sirlane",
-          "days": [
-            {
-              "date": "2026-08-17",
-              "weekday": "Segunda",
-              "checkouts": [
-                {
-                  "property": "Blanc 18 1.6 A",
-                  "back_to_back": true,
-                  "nights": 4,
-                  "people": 1,
-                  "empty_days": null
-                },
-                {
-                  "property": "Blanc 18 3.6",
-                  "back_to_back": true,
-                  "nights": 4,
-                  "people": 2,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-08-18",
       "end": "2026-08-18",
       "teams": [
@@ -179,6 +83,74 @@
         }
       ]
     },
+    "tomorrow": {
+      "start": "2026-08-19",
+      "end": "2026-08-19",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-08-19",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 1,
+                  "empty_days": null
+                },
+                {
+                  "property": "GreenView D",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Helga Carvalho",
+          "days": []
+        },
+        {
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-08-19",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "iConik 1.1",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "iConik 2.2",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Sirlane",
+          "days": []
+        }
+      ]
+    },
     "week": {
       "start": "2026-08-17",
       "end": "2026-08-23",
@@ -252,9 +224,9 @@
               "checkouts": [
                 {
                   "property": "Beira Ria Loft",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
@@ -389,6 +361,19 @@
               ]
             },
             {
+              "date": "2026-08-21",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Vela Marina FF",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
               "date": "2026-08-22",
               "weekday": "Sábado",
               "checkouts": [
@@ -474,7 +459,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 12
+                  "empty_days": 1
                 }
               ]
             },
@@ -647,6 +632,19 @@
               ]
             },
             {
+              "date": "2026-08-27",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
               "date": "2026-08-28",
               "weekday": "Sexta",
               "checkouts": [
@@ -729,6 +727,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "iConik 2.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 6
                 }
               ]
             }
