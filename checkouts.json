@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T04:34:47+00:00",
+  "generated_at": "2026-08-20T09:09:29+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-20",
@@ -21,10 +21,10 @@
                 },
                 {
                   "property": "Palacete Q",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Ruela 96",
@@ -118,21 +118,7 @@
         },
         {
           "team": "Liliane",
-          "days": [
-            {
-              "date": "2026-08-21",
-              "weekday": "Sexta",
-              "checkouts": [
-                {
-                  "property": "Vela Marina FF",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
+          "days": []
         },
         {
           "team": "Mara Cardoso",
@@ -273,10 +259,10 @@
                 },
                 {
                   "property": "Palacete Q",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Ruela 96",
@@ -324,6 +310,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 2
+                },
+                {
+                  "property": "Palacete Q",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
                 },
                 {
                   "property": "Ruela 96",
@@ -410,11 +403,11 @@
               ]
             },
             {
-              "date": "2026-08-21",
-              "weekday": "Sexta",
+              "date": "2026-08-22",
+              "weekday": "Sábado",
               "checkouts": [
                 {
-                  "property": "Vela Marina FF",
+                  "property": "Historia",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -423,11 +416,11 @@
               ]
             },
             {
-              "date": "2026-08-22",
-              "weekday": "Sábado",
+              "date": "2026-08-23",
+              "weekday": "Domingo",
               "checkouts": [
                 {
-                  "property": "Historia",
+                  "property": "Vela Marina FF",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
