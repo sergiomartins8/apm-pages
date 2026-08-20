@@ -1,75 +1,7 @@
 {
-  "generated_at": "2026-08-19T17:24:56+00:00",
+  "generated_at": "2026-08-20T04:34:47+00:00",
   "scopes": {
     "today": {
-      "start": "2026-08-19",
-      "end": "2026-08-19",
-      "teams": [
-        {
-          "team": "Ana Clara",
-          "days": [
-            {
-              "date": "2026-08-19",
-              "weekday": "Quarta",
-              "checkouts": [
-                {
-                  "property": "Cais do Sal E",
-                  "back_to_back": true,
-                  "nights": 7,
-                  "people": 1,
-                  "empty_days": null
-                },
-                {
-                  "property": "GreenView D",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 3,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Helga Carvalho",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": []
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": [
-            {
-              "date": "2026-08-19",
-              "weekday": "Quarta",
-              "checkouts": [
-                {
-                  "property": "iConik 1.1",
-                  "back_to_back": true,
-                  "nights": 7,
-                  "people": 3,
-                  "empty_days": null
-                },
-                {
-                  "property": "iConik 2.2",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 3,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Sirlane",
-          "days": []
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-08-20",
       "end": "2026-08-20",
       "teams": [
@@ -148,6 +80,116 @@
         {
           "team": "Sirlane",
           "days": []
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-08-21",
+      "end": "2026-08-21",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-08-21",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": true,
+                  "nights": 16,
+                  "people": 1,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Helga Carvalho",
+          "days": []
+        },
+        {
+          "team": "Liliane",
+          "days": [
+            {
+              "date": "2026-08-21",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Vela Marina FF",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-08-21",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "iConik 2.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                },
+                {
+                  "property": "iConik 3.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Sirlane",
+          "days": [
+            {
+              "date": "2026-08-21",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 7
+                },
+                {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 4,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -541,10 +583,10 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 1.6 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 18 3.6",
@@ -566,6 +608,13 @@
               "date": "2026-08-22",
               "weekday": "Sábado",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "Blanc 28 2.10",
                   "back_to_back": false,
@@ -674,7 +723,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 12
                 }
               ]
             },
