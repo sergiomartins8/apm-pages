@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:09:29+00:00",
+  "generated_at": "2026-08-20T17:26:57+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-20",
@@ -161,10 +161,10 @@
                 },
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 7
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 7 2.3",
@@ -299,10 +299,10 @@
               "checkouts": [
                 {
                   "property": "Canal G",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView D",
@@ -338,6 +338,13 @@
               "date": "2026-08-23",
               "weekday": "Domingo",
               "checkouts": [
+                {
+                  "property": "Canal G",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
                 {
                   "property": "Canal L",
                   "back_to_back": false,
@@ -583,10 +590,10 @@
                 },
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 7
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 7 2.3",
@@ -610,10 +617,10 @@
                 },
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
+                  "empty_days": null
                 }
               ]
             },
@@ -837,11 +844,31 @@
                   "empty_days": null
                 },
                 {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": true,
+                  "nights": 6,
+                  "people": 3,
+                  "empty_days": null
+                },
+                {
                   "property": "Blanc 7 2.3",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
                   "empty_days": 36
+                }
+              ]
+            },
+            {
+              "date": "2026-08-25",
+              "weekday": "Terça",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
                 }
               ]
             },
