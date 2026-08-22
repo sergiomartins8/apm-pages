@@ -1,103 +1,7 @@
 {
-  "generated_at": "2026-08-21T17:27:10+00:00",
+  "generated_at": "2026-08-22T04:30:47+00:00",
   "scopes": {
     "today": {
-      "start": "2026-08-21",
-      "end": "2026-08-21",
-      "teams": [
-        {
-          "team": "Ana Clara",
-          "days": [
-            {
-              "date": "2026-08-21",
-              "weekday": "Sexta",
-              "checkouts": [
-                {
-                  "property": "Ria Laço F",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 1,
-                  "empty_days": null
-                },
-                {
-                  "property": "Tomasias 23 A",
-                  "back_to_back": true,
-                  "nights": 16,
-                  "people": 1,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Helga Carvalho",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": []
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": [
-            {
-              "date": "2026-08-21",
-              "weekday": "Sexta",
-              "checkouts": [
-                {
-                  "property": "iConik 2.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
-                },
-                {
-                  "property": "iConik 3.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Sirlane",
-          "days": [
-            {
-              "date": "2026-08-21",
-              "weekday": "Sexta",
-              "checkouts": [
-                {
-                  "property": "Blanc 18 1.6 A",
-                  "back_to_back": true,
-                  "nights": 1,
-                  "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Blanc 18 3.6",
-                  "back_to_back": true,
-                  "nights": 4,
-                  "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Blanc 7 2.3",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 4,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-08-22",
       "end": "2026-08-22",
       "teams": [
@@ -138,9 +42,9 @@
                 },
                 {
                   "property": "White 405",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -207,6 +111,109 @@
                   "nights": 2,
                   "people": 3,
                   "empty_days": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-08-23",
+      "end": "2026-08-23",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-08-23",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Canal G",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Canal L",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 13
+                },
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 11
+                },
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Helga Carvalho",
+          "days": []
+        },
+        {
+          "team": "Liliane",
+          "days": [
+            {
+              "date": "2026-08-23",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Vela Marina FF",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-08-23",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 4,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Sirlane",
+          "days": [
+            {
+              "date": "2026-08-23",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Square B",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 6
                 }
               ]
             }
@@ -362,9 +369,9 @@
                 },
                 {
                   "property": "White 405",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -393,6 +400,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 11
+                },
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             }
