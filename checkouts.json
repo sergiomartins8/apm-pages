@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T12:26:27+00:00",
+  "generated_at": "2026-08-23T16:48:23+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-23",
@@ -114,10 +114,10 @@
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 11
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Square B",
@@ -155,6 +155,20 @@
                   "back_to_back": true,
                   "nights": 7,
                   "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 10
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 }
               ]
@@ -200,6 +214,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 6
+                },
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 28 2.10",
@@ -328,9 +349,9 @@
                 },
                 {
                   "property": "Tomasias 23 A",
-                  "back_to_back": true,
-                  "nights": 16,
-                  "people": 1,
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 }
               ]
@@ -700,10 +721,10 @@
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 11
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Square B",
@@ -742,6 +763,20 @@
                   "nights": 7,
                   "people": 3,
                   "empty_days": null
+                },
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 10
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
@@ -758,9 +793,9 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -778,6 +813,13 @@
                 },
                 {
                   "property": "GreenView F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Ruela 96",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -946,6 +988,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 6
+                },
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 28 2.10",
