@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T12:04:02+00:00",
+  "generated_at": "2026-08-23T12:26:27+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-23",
@@ -167,21 +167,7 @@
         },
         {
           "team": "Liliane",
-          "days": [
-            {
-              "date": "2026-08-24",
-              "weekday": "Segunda",
-              "checkouts": [
-                {
-                  "property": "Vela Marina FF",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 5,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
+          "days": []
         },
         {
           "team": "Mara Cardoso",
@@ -854,19 +840,6 @@
         {
           "team": "Liliane",
           "days": [
-            {
-              "date": "2026-08-24",
-              "weekday": "Segunda",
-              "checkouts": [
-                {
-                  "property": "Vela Marina FF",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 5,
-                  "empty_days": null
-                }
-              ]
-            },
             {
               "date": "2026-08-27",
               "weekday": "Quinta",
