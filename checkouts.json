@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T17:19:17+00:00",
+  "generated_at": "2026-08-23T21:18:08+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-23",
@@ -163,13 +163,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 10
-                },
-                {
-                  "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
                 }
               ]
             }
@@ -181,7 +174,28 @@
         },
         {
           "team": "Liliane",
-          "days": []
+          "days": [
+            {
+              "date": "2026-08-24",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Mara Cardoso",
@@ -216,13 +230,6 @@
                   "empty_days": 6
                 },
                 {
-                  "property": "Blanc 18 1.7 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                },
-                {
                   "property": "Blanc 28 2.10",
                   "back_to_back": true,
                   "nights": 6,
@@ -231,10 +238,10 @@
                 },
                 {
                   "property": "Blanc 7 2.3",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 36
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             }
@@ -770,13 +777,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 10
-                },
-                {
-                  "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
                 }
               ]
             },
@@ -789,7 +789,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 },
                 {
                   "property": "Ruela 96",
@@ -865,6 +865,13 @@
               "weekday": "Sábado",
               "checkouts": [
                 {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Canal G",
                   "back_to_back": false,
                   "nights": null,
@@ -882,6 +889,26 @@
         {
           "team": "Liliane",
           "days": [
+            {
+              "date": "2026-08-24",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
             {
               "date": "2026-08-27",
               "weekday": "Quinta",
@@ -990,13 +1017,6 @@
                   "empty_days": 6
                 },
                 {
-                  "property": "Blanc 18 1.7 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                },
-                {
                   "property": "Blanc 28 2.10",
                   "back_to_back": true,
                   "nights": 6,
@@ -1005,10 +1025,10 @@
                 },
                 {
                   "property": "Blanc 7 2.3",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 36
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             },
@@ -1022,6 +1042,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 3
+                }
+              ]
+            },
+            {
+              "date": "2026-08-26",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 34
                 }
               ]
             },
