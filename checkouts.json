@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:33:01+00:00",
+  "generated_at": "2026-08-24T13:16:15+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-24",
@@ -35,10 +35,10 @@
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 10
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -64,9 +64,9 @@
                 },
                 {
                   "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -145,10 +145,10 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": true,
-                  "nights": 1,
-                  "people": 2,
-                  "empty_days": null
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             }
@@ -220,10 +220,10 @@
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 10
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -240,10 +240,10 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": true,
-                  "nights": 1,
-                  "people": 2,
-                  "empty_days": null
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             },
@@ -266,7 +266,7 @@
                   "empty_days": null
                 },
                 {
-                  "property": "Ruela 96",
+                  "property": "White 405",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -284,6 +284,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 7
                 }
               ]
             },
@@ -326,6 +333,19 @@
                   "empty_days": 8
                 }
               ]
+            },
+            {
+              "date": "2026-08-30",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
             }
           ]
         },
@@ -349,9 +369,9 @@
                 },
                 {
                   "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -546,6 +566,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 25
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
