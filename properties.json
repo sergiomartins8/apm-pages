@@ -278,6 +278,18 @@
           "lock": "lockbox"
         }
       ]
+    },
+    {
+      "name": "NB Life",
+      "codes": {
+        "building": "*96986009#"
+      },
+      "units": [
+        {
+          "name": "NB Life V",
+          "lock": "lockbox"
+        }
+      ]
     }
   ]
 }
