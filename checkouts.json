@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T04:37:40+00:00",
+  "generated_at": "2026-08-25T16:00:03+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-25",
@@ -21,10 +21,10 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             }
@@ -88,6 +88,13 @@
                   "empty_days": null
                 },
                 {
+                  "property": "Ruela 96",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 3,
+                  "empty_days": null
+                },
+                {
                   "property": "White 405",
                   "back_to_back": false,
                   "nights": null,
@@ -115,10 +122,10 @@
               "checkouts": [
                 {
                   "property": "iConik 1.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 7
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 1.2",
@@ -212,10 +219,10 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             },
@@ -234,6 +241,13 @@
                   "property": "GreenView F",
                   "back_to_back": true,
                   "nights": 1,
+                  "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": true,
+                  "nights": 4,
                   "people": 3,
                   "empty_days": null
                 },
@@ -426,10 +440,10 @@
               "checkouts": [
                 {
                   "property": "iConik 1.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 7
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 1.2",
@@ -666,6 +680,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                },
+                {
+                  "property": "iConik 1.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
                 },
                 {
                   "property": "iConik 3.1",
