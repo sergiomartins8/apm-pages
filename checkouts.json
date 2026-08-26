@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T18:58:08+00:00",
+  "generated_at": "2026-08-26T19:35:02+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-26",
@@ -32,13 +32,6 @@
                   "nights": 4,
                   "people": 3,
                   "empty_days": null
-                },
-                {
-                  "property": "White 405",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 2,
-                  "empty_days": null
                 }
               ]
             }
@@ -50,7 +43,21 @@
         },
         {
           "team": "Liliane",
-          "days": []
+          "days": [
+            {
+              "date": "2026-08-26",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "White 405",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Mara Cardoso",
@@ -264,13 +271,6 @@
                   "nights": 4,
                   "people": 3,
                   "empty_days": null
-                },
-                {
-                  "property": "White 405",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 2,
-                  "empty_days": null
                 }
               ]
             },
@@ -399,6 +399,19 @@
                   "property": "Tomasias 23 A",
                   "back_to_back": true,
                   "nights": 7,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-08-26",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "White 405",
+                  "back_to_back": true,
+                  "nights": 2,
                   "people": 2,
                   "empty_days": null
                 }
