@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:37:11+00:00",
+  "generated_at": "2026-08-26T09:39:42+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-26",
@@ -96,7 +96,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 34
+                  "empty_days": 2
                 }
               ]
             }
@@ -549,7 +549,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 34
+                  "empty_days": 2
                 }
               ]
             },
@@ -753,6 +753,13 @@
               "date": "2026-09-02",
               "weekday": "Quarta",
               "checkouts": [
+                {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 27
+                },
                 {
                   "property": "Gran Ria E",
                   "back_to_back": false,
