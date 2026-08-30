@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T19:36:16+00:00",
+  "generated_at": "2026-08-30T21:10:15+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-30",
@@ -21,10 +21,10 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             }
@@ -130,13 +130,6 @@
               "weekday": "Segunda",
               "checkouts": [
                 {
-                  "property": "Canal G",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 6
-                },
-                {
                   "property": "Canal L",
                   "back_to_back": false,
                   "nights": null,
@@ -145,10 +138,17 @@
                 },
                 {
                   "property": "GreenView D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -184,7 +184,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 25
+                  "empty_days": 3
                 }
               ]
             }
@@ -452,10 +452,10 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             }
@@ -754,13 +754,6 @@
               "weekday": "Segunda",
               "checkouts": [
                 {
-                  "property": "Canal G",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 6
-                },
-                {
                   "property": "Canal L",
                   "back_to_back": false,
                   "nights": null,
@@ -769,10 +762,17 @@
                 },
                 {
                   "property": "GreenView D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -800,6 +800,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 3
+                }
+              ]
+            },
+            {
+              "date": "2026-09-02",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "GreenView D",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             },
@@ -895,7 +908,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 25
+                  "empty_days": 3
                 }
               ]
             },
@@ -922,6 +935,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-09-06",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "DOCA 1 A 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 19
                 }
               ]
             }
