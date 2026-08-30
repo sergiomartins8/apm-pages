@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T09:37:38+00:00",
+  "generated_at": "2026-08-30T14:51:15+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-30",
@@ -54,10 +54,10 @@
                 },
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 23
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 1.2",
@@ -129,20 +129,6 @@
               "date": "2026-08-31",
               "weekday": "Segunda",
               "checkouts": [
-                {
-                  "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                },
-                {
-                  "property": "Beira Ria 2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
                 {
                   "property": "Canal G",
                   "back_to_back": false,
@@ -245,7 +231,35 @@
         },
         {
           "team": "Sirlane",
-          "days": []
+          "days": [
+            {
+              "date": "2026-08-31",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Beira Ria 2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 22
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -591,10 +605,10 @@
                 },
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 23
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 1.2",
@@ -740,20 +754,6 @@
               "weekday": "Segunda",
               "checkouts": [
                 {
-                  "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                },
-                {
-                  "property": "Beira Ria 2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
-                {
                   "property": "Canal G",
                   "back_to_back": false,
                   "nights": null,
@@ -827,6 +827,13 @@
               "date": "2026-09-04",
               "weekday": "Sexta",
               "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": true,
+                  "nights": 9,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal I",
                   "back_to_back": false,
@@ -963,10 +970,10 @@
               "checkouts": [
                 {
                   "property": "iConik 2.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
+                  "empty_days": null
                 }
               ]
             },
@@ -979,6 +986,19 @@
                   "back_to_back": true,
                   "nights": 3,
                   "people": 4,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-09-03",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "iConik 2.2",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 3,
                   "empty_days": null
                 }
               ]
@@ -1021,6 +1041,33 @@
         {
           "team": "Sirlane",
           "days": [
+            {
+              "date": "2026-08-31",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Beira Ria 2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 22
+                }
+              ]
+            },
             {
               "date": "2026-09-02",
               "weekday": "Quarta",
