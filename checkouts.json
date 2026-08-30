@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T14:51:15+00:00",
+  "generated_at": "2026-08-30T19:36:16+00:00",
   "scopes": {
     "today": {
       "start": "2026-08-30",
@@ -148,7 +148,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 7
+                  "empty_days": 3
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -255,7 +255,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 22
+                  "empty_days": 2
                 }
               ]
             }
@@ -365,7 +365,7 @@
                 {
                   "property": "GreenView F",
                   "back_to_back": true,
-                  "nights": 5,
+                  "nights": 8,
                   "people": 2,
                   "empty_days": null
                 },
@@ -772,7 +772,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 7
+                  "empty_days": 3
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -800,13 +800,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 3
-                },
-                {
-                  "property": "GreenView F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
                 }
               ]
             },
@@ -836,6 +829,13 @@
                 },
                 {
                   "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "GreenView F",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -1064,7 +1064,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 22
+                  "empty_days": 2
                 }
               ]
             },
@@ -1098,6 +1098,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 17
+                }
+              ]
+            },
+            {
+              "date": "2026-09-04",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 18
                 }
               ]
             },
