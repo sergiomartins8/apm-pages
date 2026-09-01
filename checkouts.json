@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:37:11+00:00",
+  "generated_at": "2026-09-01T19:43:04+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-01",
@@ -75,10 +75,10 @@
                 },
                 {
                   "property": "DOCA 1 A 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             }
@@ -167,7 +167,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 3
                 }
               ]
             },
@@ -197,10 +197,10 @@
                 },
                 {
                   "property": "DOCA 1 A 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             },
@@ -210,10 +210,17 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 17
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 1,
+                  "empty_days": null
+                },
+                {
+                  "property": "DOCA 1 A 1.2",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -579,6 +586,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
@@ -618,6 +632,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 10
                 },
                 {
                   "property": "Cais do Sal E",
