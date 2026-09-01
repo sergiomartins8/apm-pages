@@ -1,152 +1,7 @@
 {
-  "generated_at": "2026-08-31T21:43:47+00:00",
+  "generated_at": "2026-09-01T09:02:55+00:00",
   "scopes": {
     "today": {
-      "start": "2026-08-31",
-      "end": "2026-08-31",
-      "teams": [
-        {
-          "team": "Ana Clara",
-          "days": [
-            {
-              "date": "2026-08-31",
-              "weekday": "Segunda",
-              "checkouts": [
-                {
-                  "property": "Canal L",
-                  "back_to_back": true,
-                  "nights": 4,
-                  "people": 1,
-                  "empty_days": null
-                },
-                {
-                  "property": "GreenView D",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Ruela 96",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 3,
-                  "empty_days": null
-                },
-                {
-                  "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
-                },
-                {
-                  "property": "White 405",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Helga Carvalho",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": [
-            {
-              "date": "2026-08-31",
-              "weekday": "Segunda",
-              "checkouts": [
-                {
-                  "property": "DOCA 1 A 1.2",
-                  "back_to_back": true,
-                  "nights": 1,
-                  "people": 4,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": [
-            {
-              "date": "2026-08-31",
-              "weekday": "Segunda",
-              "checkouts": [
-                {
-                  "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
-                {
-                  "property": "iConik 1.1",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 4,
-                  "empty_days": null
-                },
-                {
-                  "property": "iConik 2.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
-                {
-                  "property": "iConik 3.1",
-                  "back_to_back": true,
-                  "nights": 7,
-                  "people": 4,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Sirlane",
-          "days": [
-            {
-              "date": "2026-08-31",
-              "weekday": "Segunda",
-              "checkouts": [
-                {
-                  "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
-                {
-                  "property": "Beira Ria 2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
-                {
-                  "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-09-01",
       "end": "2026-09-01",
       "teams": [
@@ -211,6 +66,81 @@
         {
           "team": "Sirlane",
           "days": []
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-09-02",
+      "end": "2026-09-02",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-09-02",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "GreenView D",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Helga Carvalho",
+          "days": []
+        },
+        {
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-09-02",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "iConik 1.1",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 4,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Sirlane",
+          "days": [
+            {
+              "date": "2026-09-02",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 27
+                },
+                {
+                  "property": "Gran Ria E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -324,6 +254,13 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Canal K",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
