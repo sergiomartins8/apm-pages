@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:03:01+00:00",
+  "generated_at": "2026-09-02T17:00:18+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-02",
@@ -610,7 +610,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Canal K",
@@ -861,6 +861,13 @@
               "date": "2026-09-08",
               "weekday": "Terça",
               "checkouts": [
+                {
+                  "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal K",
                   "back_to_back": false,
