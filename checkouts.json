@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:48:11+00:00",
+  "generated_at": "2026-09-03T16:56:55+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-03",
@@ -127,7 +127,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 }
               ]
             }
@@ -186,13 +186,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
-                },
-                {
-                  "property": "GreenView F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
                 },
                 {
                   "property": "Ruela 96",
@@ -331,7 +324,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 }
               ]
             },
@@ -577,7 +570,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 },
                 {
                   "property": "GreenView D",
@@ -648,13 +641,6 @@
                   "empty_days": 1
                 },
                 {
-                  "property": "GreenView F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                },
-                {
                   "property": "Ruela 96",
                   "back_to_back": true,
                   "nights": 2,
@@ -680,6 +666,13 @@
                   "nights": 3,
                   "people": 2,
                   "empty_days": null
+                },
+                {
+                  "property": "Gran Ria E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
@@ -692,6 +685,13 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "GreenView F",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
                   "empty_days": null
                 },
                 {
@@ -727,6 +727,13 @@
               "checkouts": [
                 {
                   "property": "NB Life V",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 30
+                },
+                {
+                  "property": "Palacete Q",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -833,10 +840,10 @@
               "checkouts": [
                 {
                   "property": "iConik 1.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 9
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 2.2",
@@ -864,6 +871,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 9
+                }
+              ]
+            },
+            {
+              "date": "2026-09-11",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "iConik 1.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 6
                 }
               ]
             },
@@ -949,6 +969,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 27
+                },
+                {
+                  "property": "GreenView F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
