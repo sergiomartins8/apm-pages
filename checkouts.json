@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T07:43:53+00:00",
+  "generated_at": "2026-09-04T16:44:51+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-04",
@@ -93,10 +93,10 @@
                 },
                 {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Ruela 96",
@@ -210,6 +210,13 @@
                 },
                 {
                   "property": "Canal I",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Canal L",
                   "back_to_back": true,
                   "nights": 3,
                   "people": 2,
@@ -400,6 +407,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 19
+                },
+                {
+                  "property": "Vela Marina FF",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             }
@@ -663,10 +677,10 @@
                 },
                 {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Ruela 96",
@@ -690,6 +704,13 @@
                 },
                 {
                   "property": "Canal I",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Canal L",
                   "back_to_back": true,
                   "nights": 3,
                   "people": 2,
