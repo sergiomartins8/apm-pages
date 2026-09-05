@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T07:26:07+00:00",
+  "generated_at": "2026-09-05T15:47:18+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-05",
@@ -210,9 +210,9 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 3,
                   "empty_days": null
                 },
                 {
@@ -765,9 +765,9 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 3,
                   "empty_days": null
                 },
                 {
@@ -1070,15 +1070,28 @@
               ]
             },
             {
+              "date": "2026-09-10",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Beira Ria 2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
               "date": "2026-09-11",
               "weekday": "Sexta",
               "checkouts": [
                 {
                   "property": "GreenView D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 14
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
