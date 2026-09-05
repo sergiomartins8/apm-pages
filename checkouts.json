@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T15:47:18+00:00",
+  "generated_at": "2026-09-05T18:47:27+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-05",
@@ -145,10 +145,10 @@
                 },
                 {
                   "property": "Blanc 7 2.3",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 23
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
                 },
                 {
                   "property": "DOCA 1 A 1.2",
@@ -231,9 +231,9 @@
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -396,10 +396,10 @@
                 },
                 {
                   "property": "Blanc 7 2.3",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 23
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
                 },
                 {
                   "property": "DOCA 1 A 1.2",
@@ -786,9 +786,9 @@
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -849,6 +849,13 @@
               "date": "2026-09-08",
               "weekday": "Terça",
               "checkouts": [
+                {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 21
+                },
                 {
                   "property": "DOCA 2 A 0.6",
                   "back_to_back": false,
@@ -1066,6 +1073,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
@@ -1078,7 +1092,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 }
               ]
             },
