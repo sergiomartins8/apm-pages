@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T07:39:08+00:00",
+  "generated_at": "2026-09-06T08:19:10+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-06",
@@ -32,13 +32,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 19
-                },
-                {
-                  "property": "Vela Marina FF",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
                 }
               ]
             }
@@ -50,7 +43,21 @@
         },
         {
           "team": "Liliane",
-          "days": []
+          "days": [
+            {
+              "date": "2026-09-06",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Vela Marina FF",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Mara Cardoso",
@@ -379,13 +386,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 19
-                },
-                {
-                  "property": "Vela Marina FF",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
                 }
               ]
             }
@@ -424,6 +424,19 @@
                 },
                 {
                   "property": "Historia",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-09-06",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Vela Marina FF",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
