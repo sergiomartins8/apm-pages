@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T07:08:10+00:00",
+  "generated_at": "2026-09-07T07:56:34+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-07",
@@ -53,7 +53,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 }
               ]
             }
@@ -347,6 +347,13 @@
                   "empty_days": 16
                 },
                 {
+                  "property": "NB Life V",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Vela Marina FF",
                   "back_to_back": false,
                   "nights": null,
@@ -373,7 +380,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 }
               ]
             }
