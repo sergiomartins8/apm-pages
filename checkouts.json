@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T07:52:33+00:00",
+  "generated_at": "2026-09-08T13:58:48+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-08",
@@ -57,7 +57,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 9
+                  "empty_days": 2
                 }
               ]
             }
@@ -79,10 +79,10 @@
                 },
                 {
                   "property": "Canal K",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal L",
@@ -168,16 +168,23 @@
                 },
                 {
                   "property": "Canal G",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 27
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal I",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Canal K",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -418,7 +425,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 9
+                  "empty_days": 2
                 }
               ]
             },
@@ -461,9 +468,9 @@
               "checkouts": [
                 {
                   "property": "iConik 2.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 1,
                   "empty_days": null
                 }
               ]
@@ -519,10 +526,10 @@
                 },
                 {
                   "property": "Canal K",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal L",
@@ -567,16 +574,23 @@
                 },
                 {
                   "property": "Canal G",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 27
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal I",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Canal K",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -693,6 +707,32 @@
           "team": "Mara Cardoso",
           "days": [
             {
+              "date": "2026-09-14",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "iConik 2.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
+                }
+              ]
+            },
+            {
+              "date": "2026-09-17",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "iConik 2.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
               "date": "2026-09-18",
               "weekday": "Sexta",
               "checkouts": [
@@ -723,6 +763,19 @@
         {
           "team": "Sirlane",
           "days": [
+            {
+              "date": "2026-09-14",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Canal G",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 22
+                }
+              ]
+            },
             {
               "date": "2026-09-16",
               "weekday": "Quarta",
