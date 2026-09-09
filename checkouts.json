@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:03:05+00:00",
+  "generated_at": "2026-09-09T20:44:26+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-09",
@@ -17,7 +17,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 13
+                  "empty_days": 1
                 },
                 {
                   "property": "Palacete Q",
@@ -123,13 +123,6 @@
                   "empty_days": null
                 },
                 {
-                  "property": "Blanc 18 3.6",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 1,
-                  "empty_days": null
-                },
-                {
                   "property": "Cais do Sal E",
                   "back_to_back": true,
                   "nights": 3,
@@ -206,7 +199,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 20
                 }
               ]
             }
@@ -277,7 +270,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 13
+                  "empty_days": 1
                 },
                 {
                   "property": "Palacete Q",
@@ -297,13 +290,6 @@
                   "back_to_back": true,
                   "nights": 3,
                   "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Blanc 18 3.6",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 1,
                   "empty_days": null
                 },
                 {
@@ -382,6 +368,13 @@
                   "empty_days": 7
                 },
                 {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 9
+                },
+                {
                   "property": "Blanc 7 2.3",
                   "back_to_back": false,
                   "nights": null,
@@ -408,13 +401,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 3
-                },
-                {
-                  "property": "Vela Marina FF",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
                 }
               ]
             }
@@ -437,6 +423,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                }
+              ]
+            },
+            {
+              "date": "2026-09-13",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Vela Marina FF",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             }
@@ -702,7 +701,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 20
                 }
               ]
             },
@@ -722,7 +721,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -904,6 +903,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 22
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
