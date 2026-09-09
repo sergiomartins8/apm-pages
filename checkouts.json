@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T07:53:14+00:00",
+  "generated_at": "2026-09-09T13:03:14+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-09",
@@ -21,10 +21,10 @@
                 },
                 {
                   "property": "Palacete Q",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
+                  "empty_days": null
                 }
               ]
             }
@@ -93,9 +93,9 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -117,9 +117,9 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 1.7 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -128,13 +128,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 10
-                },
-                {
-                  "property": "Blanc 7 2.3",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
                 },
                 {
                   "property": "Cais do Sal E",
@@ -255,7 +248,7 @@
                 {
                   "property": "Blanc 7 2.3",
                   "back_to_back": true,
-                  "nights": 2,
+                  "nights": 3,
                   "people": 4,
                   "empty_days": null
                 },
@@ -281,10 +274,10 @@
                 },
                 {
                   "property": "Palacete Q",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
+                  "empty_days": null
                 }
               ]
             },
@@ -294,9 +287,9 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 1.7 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -305,13 +298,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 10
-                },
-                {
-                  "property": "Blanc 7 2.3",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
                 },
                 {
                   "property": "Cais do Sal E",
@@ -334,11 +320,25 @@
               "weekday": "Sexta",
               "checkouts": [
                 {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
                   "property": "DOCA 1 A 1.2",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
                   "empty_days": 14
+                },
+                {
+                  "property": "Palacete Q",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 },
                 {
                   "property": "White 405",
@@ -355,6 +355,13 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 18 1.7 A",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -651,9 +658,9 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -680,6 +687,13 @@
                   "back_to_back": true,
                   "nights": 5,
                   "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 },
                 {
