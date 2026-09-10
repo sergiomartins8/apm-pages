@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T07:53:07+00:00",
+  "generated_at": "2026-09-10T11:31:02+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-10",
@@ -28,10 +28,10 @@
                 },
                 {
                   "property": "DOCA 2 A 0.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 8
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             }
@@ -54,10 +54,10 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 1.2",
@@ -68,10 +68,10 @@
                 },
                 {
                   "property": "iConik 3.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 5,
+                  "empty_days": null
                 }
               ]
             }
@@ -168,6 +168,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 6
+                },
+                {
+                  "property": "iConik 3.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             }
@@ -196,10 +203,10 @@
                 },
                 {
                   "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 32
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -301,10 +308,10 @@
                 },
                 {
                   "property": "DOCA 2 A 0.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 8
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             },
@@ -339,6 +346,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-09-12",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "DOCA 2 A 0.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 6
                 }
               ]
             },
@@ -387,13 +407,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
-                },
-                {
-                  "property": "NB Life V",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
                 },
                 {
                   "property": "Palacete Q",
@@ -490,10 +503,10 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 1.2",
@@ -504,10 +517,10 @@
                 },
                 {
                   "property": "iConik 3.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 5,
+                  "empty_days": null
                 }
               ]
             },
@@ -521,6 +534,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 6
+                },
+                {
+                  "property": "iConik 3.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             },
@@ -725,10 +745,10 @@
                 },
                 {
                   "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 32
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -791,6 +811,19 @@
           "team": "Ana Clara",
           "days": [
             {
+              "date": "2026-09-16",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "NB Life V",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
               "date": "2026-09-18",
               "weekday": "Sexta",
               "checkouts": [
@@ -840,6 +873,13 @@
               "date": "2026-09-14",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "iConik 0.1",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "iConik 2.2",
                   "back_to_back": false,
@@ -956,6 +996,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 25
                 }
               ]
             }
