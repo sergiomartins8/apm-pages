@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:54:59+00:00",
+  "generated_at": "2026-09-10T19:28:50+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-10",
@@ -141,7 +141,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 }
               ]
             }
@@ -352,7 +352,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 }
               ]
             },
@@ -820,9 +820,9 @@
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -847,6 +847,19 @@
                   "back_to_back": true,
                   "nights": 3,
                   "people": 3,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-09-17",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 }
               ]
@@ -994,6 +1007,13 @@
               "checkouts": [
                 {
                   "property": "GreenView F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Ria Laço F",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
