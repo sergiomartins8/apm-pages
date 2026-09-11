@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T08:44:47+00:00",
+  "generated_at": "2026-09-11T13:51:42+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-11",
@@ -25,13 +25,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
-                },
-                {
-                  "property": "White 405",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 1,
-                  "empty_days": null
                 }
               ]
             }
@@ -68,10 +61,10 @@
               "checkouts": [
                 {
                   "property": "iConik 1.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 6
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 3.1",
@@ -141,7 +134,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 6
+                  "empty_days": 1
                 }
               ]
             }
@@ -332,13 +325,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
-                },
-                {
-                  "property": "White 405",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 1,
-                  "empty_days": null
                 }
               ]
             },
@@ -351,7 +337,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 6
+                  "empty_days": 1
                 }
               ]
             },
@@ -550,10 +536,10 @@
               "checkouts": [
                 {
                   "property": "iConik 1.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 6
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 3.1",
@@ -581,6 +567,13 @@
               "date": "2026-09-13",
               "weekday": "Domingo",
               "checkouts": [
+                {
+                  "property": "iConik 1.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 4
+                },
                 {
                   "property": "iConik 1.2",
                   "back_to_back": false,
@@ -836,7 +829,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Ria Laço F",
@@ -889,6 +882,13 @@
               "weekday": "Sexta",
               "checkouts": [
                 {
+                  "property": "DOCA 2 A 0.6",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
                   "property": "Palacete Q",
                   "back_to_back": false,
                   "nights": null,
@@ -906,7 +906,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 17
                 },
                 {
                   "property": "Square B",
@@ -1051,6 +1051,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 9
+                }
+              ]
+            },
+            {
+              "date": "2026-09-17",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Canal K",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
