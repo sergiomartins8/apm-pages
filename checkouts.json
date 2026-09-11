@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:17:55+00:00",
+  "generated_at": "2026-09-11T16:30:04+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-11",
@@ -124,6 +124,14 @@
       "teams": [
         {
           "team": "Ana Clara",
+          "days": []
+        },
+        {
+          "team": "Helga Carvalho",
+          "days": []
+        },
+        {
+          "team": "Liliane",
           "days": [
             {
               "date": "2026-09-12",
@@ -139,14 +147,6 @@
               ]
             }
           ]
-        },
-        {
-          "team": "Helga Carvalho",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": []
         },
         {
           "team": "Mara Cardoso",
@@ -173,6 +173,13 @@
               "date": "2026-09-12",
               "weekday": "Sábado",
               "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal I",
                   "back_to_back": true,
@@ -329,57 +336,9 @@
               ]
             },
             {
-              "date": "2026-09-12",
-              "weekday": "Sábado",
-              "checkouts": [
-                {
-                  "property": "DOCA 2 A 0.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                }
-              ]
-            },
-            {
               "date": "2026-09-13",
               "weekday": "Domingo",
               "checkouts": [
-                {
-                  "property": "Blanc 18 1.6 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                },
-                {
-                  "property": "Blanc 18 1.7 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                },
-                {
-                  "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 7
-                },
-                {
-                  "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 9
-                },
-                {
-                  "property": "Blanc 7 2.3",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 16
-                },
                 {
                   "property": "Cais do Sal E",
                   "back_to_back": false,
@@ -435,6 +394,19 @@
                   "nights": 2,
                   "people": 2,
                   "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-09-12",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "DOCA 2 A 0.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             },
@@ -777,6 +749,13 @@
               "weekday": "Sábado",
               "checkouts": [
                 {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Canal I",
                   "back_to_back": true,
                   "nights": 1,
@@ -811,11 +790,39 @@
               "weekday": "Domingo",
               "checkouts": [
                 {
-                  "property": "Beira Ria 1",
+                  "property": "Blanc 18 1.6 A",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 7
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 9
+                },
+                {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 16
                 },
                 {
                   "property": "Canal I",
