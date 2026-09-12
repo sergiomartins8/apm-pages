@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:46:59+00:00",
+  "generated_at": "2026-09-12T14:30:35+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-12",
@@ -241,7 +241,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 17
+                  "empty_days": 3
                 },
                 {
                   "property": "Canal K",
@@ -892,7 +892,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 17
+                  "empty_days": 3
                 },
                 {
                   "property": "Canal K",
@@ -1007,9 +1007,9 @@
                 },
                 {
                   "property": "Square B",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -1174,6 +1174,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 12
                 },
                 {
                   "property": "Tomasias 23 A",
