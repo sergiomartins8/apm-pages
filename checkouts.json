@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:30:35+00:00",
+  "generated_at": "2026-09-12T17:57:10+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-12",
@@ -61,7 +61,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Canal I",
@@ -823,7 +823,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Canal I",
@@ -1122,6 +1122,13 @@
               "date": "2026-09-15",
               "weekday": "Terça",
               "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "GreenView F",
                   "back_to_back": false,
