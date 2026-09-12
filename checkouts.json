@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T06:37:49+00:00",
+  "generated_at": "2026-09-12T11:46:59+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-12",
@@ -221,13 +221,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
-                },
-                {
-                  "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 7
                 },
                 {
                   "property": "Blanc 28 2.10",
@@ -881,13 +874,6 @@
                   "empty_days": 1
                 },
                 {
-                  "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 7
-                },
-                {
                   "property": "Blanc 28 2.10",
                   "back_to_back": false,
                   "nights": null,
@@ -949,6 +935,19 @@
         {
           "team": "Ana Clara",
           "days": [
+            {
+              "date": "2026-09-15",
+              "weekday": "Terça",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 5
+                }
+              ]
+            },
             {
               "date": "2026-09-16",
               "weekday": "Quarta",
