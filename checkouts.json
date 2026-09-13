@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T17:07:56+00:00",
+  "generated_at": "2026-09-13T17:38:07+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-13",
@@ -922,26 +922,6 @@
           "team": "Ana Clara",
           "days": [
             {
-              "date": "2026-09-15",
-              "weekday": "Terça",
-              "checkouts": [
-                {
-                  "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
-                },
-                {
-                  "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 7
-                }
-              ]
-            },
-            {
               "date": "2026-09-16",
               "weekday": "Quarta",
               "checkouts": [
@@ -1004,13 +984,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 17
-                },
-                {
-                  "property": "Square B",
-                  "back_to_back": true,
-                  "nights": 7,
-                  "people": 2,
-                  "empty_days": null
                 }
               ]
             }
@@ -1144,6 +1117,20 @@
                   "empty_days": null
                 },
                 {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 5
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 7
+                },
+                {
                   "property": "Canal I",
                   "back_to_back": false,
                   "nights": null,
@@ -1230,6 +1217,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 25
+                }
+              ]
+            },
+            {
+              "date": "2026-09-19",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Square B",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
