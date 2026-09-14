@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T14:31:27+00:00",
+  "generated_at": "2026-09-14T20:00:08+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-14",
@@ -112,16 +112,9 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                },
-                {
-                  "property": "Blanc 18 1.6 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -150,7 +143,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Ria Laço F",
@@ -161,9 +154,9 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -195,6 +188,13 @@
                   "back_to_back": true,
                   "nights": 3,
                   "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "Vela Marina FF",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 }
               ]
@@ -290,6 +290,13 @@
               "weekday": "Quinta",
               "checkouts": [
                 {
+                  "property": "iConik 1.1",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
                   "property": "iConik 2.1",
                   "back_to_back": true,
                   "nights": 2,
@@ -307,7 +314,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 5
                 },
                 {
                   "property": "iConik 1.2",
@@ -376,16 +383,9 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                },
-                {
-                  "property": "Blanc 18 1.6 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -414,7 +414,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Ria Laço F",
@@ -425,9 +425,9 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -436,6 +436,20 @@
               "date": "2026-09-16",
               "weekday": "Quarta",
               "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Blanc 28 2.10",
                   "back_to_back": false,
@@ -504,6 +518,13 @@
               "weekday": "Sábado",
               "checkouts": [
                 {
+                  "property": "GreenView F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Square B",
                   "back_to_back": true,
                   "nights": 7,
@@ -516,6 +537,13 @@
               "date": "2026-09-20",
               "weekday": "Domingo",
               "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal G",
                   "back_to_back": false,
@@ -601,12 +629,38 @@
                   "empty_days": null
                 }
               ]
+            },
+            {
+              "date": "2026-09-26",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
             }
           ]
         },
         {
           "team": "Sirlane",
           "days": [
+            {
+              "date": "2026-09-22",
+              "weekday": "Terça",
+              "checkouts": [
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
             {
               "date": "2026-09-23",
               "weekday": "Quarta",
