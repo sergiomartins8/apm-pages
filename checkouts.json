@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T20:00:08+00:00",
+  "generated_at": "2026-09-14T22:57:21+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-14",
@@ -176,6 +176,13 @@
               "date": "2026-09-16",
               "weekday": "Quarta",
               "checkouts": [
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "DOCA 1 A 1.2",
                   "back_to_back": false,
@@ -503,13 +510,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 12
-                },
-                {
-                  "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 25
                 }
               ]
             },
@@ -557,6 +557,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 23
                 }
               ]
             }
