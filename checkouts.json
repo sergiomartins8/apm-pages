@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T19:21:22+00:00",
+  "generated_at": "2026-09-15T22:31:59+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-15",
@@ -531,7 +531,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Blanc 28 2.10",
@@ -722,6 +722,13 @@
               "date": "2026-09-22",
               "weekday": "Terça",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Ruela 96",
                   "back_to_back": false,
