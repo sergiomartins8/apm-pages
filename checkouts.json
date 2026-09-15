@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T09:03:24+00:00",
+  "generated_at": "2026-09-15T14:32:40+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-15",
@@ -577,7 +577,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 20
                 },
                 {
                   "property": "Tomasias 23 A",
