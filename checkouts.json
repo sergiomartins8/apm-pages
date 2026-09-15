@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T14:50:32+00:00",
+  "generated_at": "2026-09-15T19:21:22+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-15",
@@ -37,24 +37,24 @@
                 },
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 28 2.10",
                   "back_to_back": true,
-                  "nights": 1,
+                  "nights": 2,
                   "people": 1,
                   "empty_days": null
                 },
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView F",
@@ -161,17 +161,24 @@
                 },
                 {
                   "property": "Blanc 18 1.6 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
-                  "property": "Blanc 28 2.10",
+                  "property": "Blanc 18 3.6",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 6
+                  "empty_days": 4
+                },
+                {
+                  "property": "Canal I",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView D",
@@ -432,24 +439,24 @@
                 },
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 28 2.10",
                   "back_to_back": true,
-                  "nights": 1,
+                  "nights": 2,
                   "people": 1,
                   "empty_days": null
                 },
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView F",
@@ -487,17 +494,24 @@
                 },
                 {
                   "property": "Blanc 18 1.6 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
-                  "property": "Blanc 28 2.10",
+                  "property": "Blanc 18 3.6",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 6
+                  "empty_days": 4
+                },
+                {
+                  "property": "Canal I",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView D",
@@ -512,6 +526,20 @@
               "date": "2026-09-17",
               "weekday": "Quinta",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 5
+                },
                 {
                   "property": "Canal K",
                   "back_to_back": false,
@@ -712,7 +740,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 19
                 }
               ]
             },
