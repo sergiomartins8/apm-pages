@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T14:32:40+00:00",
+  "generated_at": "2026-09-15T14:50:32+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-15",
@@ -114,13 +114,6 @@
                   "nights": 3,
                   "people": 3,
                   "empty_days": null
-                },
-                {
-                  "property": "Vela Marina FF",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
                 }
               ]
             }
@@ -132,7 +125,21 @@
         },
         {
           "team": "Liliane",
-          "days": []
+          "days": [
+            {
+              "date": "2026-09-16",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "Vela Marina FF",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Mara Cardoso",
@@ -210,13 +217,6 @@
                   "nights": 3,
                   "people": 3,
                   "empty_days": null
-                },
-                {
-                  "property": "Vela Marina FF",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
                 }
               ]
             },
@@ -274,7 +274,21 @@
         },
         {
           "team": "Liliane",
-          "days": []
+          "days": [
+            {
+              "date": "2026-09-16",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "Vela Marina FF",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Mara Cardoso",
