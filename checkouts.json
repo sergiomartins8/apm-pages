@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:32:43+00:00",
+  "generated_at": "2026-09-16T23:57:37+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-16",
@@ -617,17 +617,17 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 8
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal G",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal I",
@@ -642,6 +642,13 @@
               "date": "2026-09-19",
               "weekday": "Sábado",
               "checkouts": [
+                {
+                  "property": "Canal G",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "GreenView F",
                   "back_to_back": false,
@@ -668,6 +675,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Beira Ria 2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 6
                 },
                 {
                   "property": "Blanc 28 2.10",
@@ -792,7 +806,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 6
                 }
               ]
             }
