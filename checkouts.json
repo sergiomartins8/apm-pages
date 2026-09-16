@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:54:58+00:00",
+  "generated_at": "2026-09-16T17:49:00+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-16",
@@ -100,10 +100,10 @@
                 },
                 {
                   "property": "GreenView D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -205,6 +205,13 @@
                   "property": "Canal K",
                   "back_to_back": true,
                   "nights": 3,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "GreenView D",
+                  "back_to_back": true,
+                  "nights": 5,
                   "people": 2,
                   "empty_days": null
                 }
@@ -549,10 +556,10 @@
                 },
                 {
                   "property": "GreenView D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -587,6 +594,13 @@
                   "nights": 3,
                   "people": 2,
                   "empty_days": null
+                },
+                {
+                  "property": "GreenView D",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -613,7 +627,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 12
+                  "empty_days": 1
                 }
               ]
             },
@@ -657,10 +671,17 @@
                 },
                 {
                   "property": "Canal G",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Canal I",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 16
+                  "empty_days": 10
                 },
                 {
                   "property": "Canal K",
@@ -804,6 +825,13 @@
               "date": "2026-09-23",
               "weekday": "Quarta",
               "checkouts": [
+                {
+                  "property": "Canal G",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                },
                 {
                   "property": "Canal K",
                   "back_to_back": false,
