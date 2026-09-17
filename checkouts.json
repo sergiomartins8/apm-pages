@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:59:15+00:00",
+  "generated_at": "2026-09-17T14:31:44+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-17",
@@ -230,7 +230,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 },
                 {
                   "property": "DOCA 1 A 1.2",
@@ -291,6 +291,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 17
+                }
+              ]
+            },
+            {
+              "date": "2026-09-20",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             }
@@ -415,9 +428,9 @@
                 },
                 {
                   "property": "iConik 2.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 3,
                   "empty_days": null
                 }
               ]
@@ -781,6 +794,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 10
+                },
+                {
+                  "property": "iConik 2.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
