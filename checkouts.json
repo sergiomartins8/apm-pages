@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T02:26:19+00:00",
+  "generated_at": "2026-09-17T08:59:15+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-17",
@@ -79,10 +79,10 @@
                 },
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 28 2.10",
@@ -576,10 +576,10 @@
                 },
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 28 2.10",
@@ -635,6 +635,13 @@
               "date": "2026-09-19",
               "weekday": "Sábado",
               "checkouts": [
+                {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
                 {
                   "property": "Canal G",
                   "back_to_back": true,
