@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T12:26:11+00:00",
+  "generated_at": "2026-09-18T17:21:34+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-18",
@@ -21,10 +21,10 @@
                 },
                 {
                   "property": "Palacete Q",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             }
@@ -128,6 +128,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 17
+                },
+                {
+                  "property": "Palacete Q",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -150,9 +157,9 @@
               "checkouts": [
                 {
                   "property": "iConik 2.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -267,10 +274,10 @@
                 },
                 {
                   "property": "Palacete Q",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             },
@@ -284,6 +291,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 17
+                },
+                {
+                  "property": "Palacete Q",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -414,9 +428,9 @@
               "checkouts": [
                 {
                   "property": "iConik 2.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -438,6 +452,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 3
+                },
+                {
+                  "property": "iConik 2.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             }
