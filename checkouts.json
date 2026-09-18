@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:21:34+00:00",
+  "generated_at": "2026-09-18T20:05:38+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-18",
@@ -86,10 +86,10 @@
                 },
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal G",
@@ -188,6 +188,13 @@
                   "empty_days": 1
                 },
                 {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
                   "property": "Canal G",
                   "back_to_back": true,
                   "nights": 1,
@@ -257,7 +264,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 }
               ]
             },
@@ -644,10 +651,10 @@
                 },
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal G",
@@ -675,6 +682,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal G",
@@ -761,10 +775,10 @@
                 },
                 {
                   "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 23
+                  "back_to_back": true,
+                  "nights": 6,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -792,6 +806,13 @@
                 },
                 {
                   "property": "Palacete Q",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "White 405",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -946,7 +967,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 8
                 }
               ]
             },
@@ -960,6 +981,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 17
                 }
               ]
             },
