@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T12:42:52+00:00",
+  "generated_at": "2026-09-20T17:05:45+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-20",
@@ -14,9 +14,9 @@
               "checkouts": [
                 {
                   "property": "Cais do Sal E",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -40,10 +40,10 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 2.1",
@@ -212,6 +212,13 @@
               "weekday": "Segunda",
               "checkouts": [
                 {
+                  "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                },
+                {
                   "property": "iConik 1.1",
                   "back_to_back": false,
                   "nights": null,
@@ -329,9 +336,9 @@
               "checkouts": [
                 {
                   "property": "Cais do Sal E",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -497,10 +504,10 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 2.1",
@@ -884,6 +891,19 @@
               ]
             },
             {
+              "date": "2026-09-23",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
               "date": "2026-09-25",
               "weekday": "Sexta",
               "checkouts": [
@@ -913,6 +933,13 @@
               "date": "2026-09-21",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                },
                 {
                   "property": "iConik 1.1",
                   "back_to_back": false,
