@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:38:41+00:00",
+  "generated_at": "2026-09-21T20:10:59+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-21",
@@ -82,9 +82,9 @@
                 },
                 {
                   "property": "iConik 2.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -175,9 +175,9 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -313,9 +313,9 @@
                 },
                 {
                   "property": "iConik 2.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -326,6 +326,19 @@
               "checkouts": [
                 {
                   "property": "iConik 2.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-09-24",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "iConik 2.2",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -404,9 +417,9 @@
                 },
                 {
                   "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -476,6 +489,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 8
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
