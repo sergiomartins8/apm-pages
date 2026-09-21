@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:28:17+00:00",
+  "generated_at": "2026-09-21T14:38:41+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-21",
@@ -28,10 +28,10 @@
                 },
                 {
                   "property": "NB Life V",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 15
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Palacete Q",
@@ -168,10 +168,10 @@
                 },
                 {
                   "property": "GreenView D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Ruela 96",
@@ -213,10 +213,10 @@
                 },
                 {
                   "property": "NB Life V",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 15
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Palacete Q",
@@ -257,6 +257,26 @@
                   "nights": 6,
                   "people": 2,
                   "empty_days": null
+                },
+                {
+                  "property": "NB Life V",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                }
+              ]
+            },
+            {
+              "date": "2026-09-27",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "NB Life V",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 9
                 }
               ]
             }
@@ -377,10 +397,10 @@
                 },
                 {
                   "property": "GreenView D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Ruela 96",
@@ -408,6 +428,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 19
+                },
+                {
+                  "property": "GreenView D",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
                 },
                 {
                   "property": "Ria Laço F",
