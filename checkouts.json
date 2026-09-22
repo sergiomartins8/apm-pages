@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:35:04+00:00",
+  "generated_at": "2026-09-22T23:54:32+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-22",
@@ -496,10 +496,10 @@
                 },
                 {
                   "property": "Blanc 18 1.7 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 13
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 28 2.10",
@@ -535,6 +535,13 @@
               "date": "2026-09-26",
               "weekday": "Sábado",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 12
+                },
                 {
                   "property": "Canal K",
                   "back_to_back": false,
