@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:48:52+00:00",
+  "generated_at": "2026-09-22T20:35:04+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-22",
@@ -218,9 +218,9 @@
               "checkouts": [
                 {
                   "property": "DOCA 1 A 1.2",
-                  "back_to_back": true,
-                  "nights": 6,
-                  "people": 2,
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 },
                 {
@@ -294,7 +294,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 10
+                  "empty_days": 1
                 },
                 {
                   "property": "iConik 2.2",
@@ -322,6 +322,13 @@
               "date": "2026-09-24",
               "weekday": "Quinta",
               "checkouts": [
+                {
+                  "property": "iConik 1.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 7
+                },
                 {
                   "property": "iConik 2.2",
                   "back_to_back": true,
@@ -598,19 +605,6 @@
                   "back_to_back": true,
                   "nights": 7,
                   "people": 2,
-                  "empty_days": null
-                }
-              ]
-            },
-            {
-              "date": "2026-10-01",
-              "weekday": "Quinta",
-              "checkouts": [
-                {
-                  "property": "DOCA 1 A 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
                   "empty_days": null
                 }
               ]
