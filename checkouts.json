@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:59:04+00:00",
+  "generated_at": "2026-09-24T18:02:33+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-24",
@@ -65,10 +65,10 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 18 1.6 A",
@@ -159,6 +159,13 @@
               "date": "2026-09-25",
               "weekday": "Sexta",
               "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": true,
+                  "nights": 11,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "Beira Ria Loft",
                   "back_to_back": false,
@@ -573,10 +580,10 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 18 1.6 A",
@@ -598,6 +605,13 @@
               "date": "2026-09-25",
               "weekday": "Sexta",
               "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": true,
+                  "nights": 11,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "Beira Ria Loft",
                   "back_to_back": false,
@@ -669,10 +683,10 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 1.7 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 12
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal K",
@@ -707,6 +721,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 11
                 },
                 {
                   "property": "Blanc 18 3.6",
