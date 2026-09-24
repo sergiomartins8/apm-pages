@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:07:38+00:00",
+  "generated_at": "2026-09-24T12:59:04+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-24",
@@ -103,9 +103,9 @@
               "checkouts": [
                 {
                   "property": "DOCA 1 A 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 11,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -203,10 +203,10 @@
                 },
                 {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 8
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 1,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView D",
@@ -308,9 +308,9 @@
               "checkouts": [
                 {
                   "property": "DOCA 1 A 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 11,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -642,10 +642,10 @@
                 },
                 {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 8
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 1,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView D",
@@ -789,6 +789,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 14
+                },
+                {
+                  "property": "Canal L",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 5
                 },
                 {
                   "property": "GreenView D",
