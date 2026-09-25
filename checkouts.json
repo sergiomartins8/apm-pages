@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:50:50+00:00",
+  "generated_at": "2026-09-25T19:38:48+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-25",
@@ -181,6 +181,13 @@
               "weekday": "Sábado",
               "checkouts": [
                 {
+                  "property": "Beira Ria 2",
+                  "back_to_back": true,
+                  "nights": 21,
+                  "people": 1,
+                  "empty_days": null
+                },
+                {
                   "property": "Beira Ria Loft",
                   "back_to_back": false,
                   "nights": null,
@@ -217,10 +224,10 @@
                 },
                 {
                   "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 17
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             }
@@ -468,9 +475,9 @@
                 },
                 {
                   "property": "iConik 2.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 6,
+                  "people": 1,
                   "empty_days": null
                 }
               ]
@@ -662,6 +669,13 @@
               "weekday": "Sábado",
               "checkouts": [
                 {
+                  "property": "Beira Ria 2",
+                  "back_to_back": true,
+                  "nights": 21,
+                  "people": 1,
+                  "empty_days": null
+                },
+                {
                   "property": "Beira Ria Loft",
                   "back_to_back": false,
                   "nights": null,
@@ -698,10 +712,10 @@
                 },
                 {
                   "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 17
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             },
@@ -725,9 +739,9 @@
                 },
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
@@ -750,6 +764,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 16
                 }
               ]
             }
@@ -826,6 +847,19 @@
                   "back_to_back": true,
                   "nights": 4,
                   "people": 7,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-10-03",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "iConik 2.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 }
               ]
@@ -926,6 +960,13 @@
               "date": "2026-10-04",
               "weekday": "Domingo",
               "checkouts": [
+                {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Blanc 7 2.3",
                   "back_to_back": false,
