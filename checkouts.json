@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T02:09:07+00:00",
+  "generated_at": "2026-09-25T07:21:10+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-25",
@@ -90,13 +90,6 @@
                   "nights": 1,
                   "people": 2,
                   "empty_days": null
-                },
-                {
-                  "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
                 },
                 {
                   "property": "Blanc 7 2.3",
@@ -205,6 +198,13 @@
                   "property": "Blanc 18 1.7 A",
                   "back_to_back": true,
                   "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": true,
+                  "nights": 4,
                   "people": 2,
                   "empty_days": null
                 },
@@ -627,13 +627,6 @@
                   "empty_days": null
                 },
                 {
-                  "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
-                {
                   "property": "Blanc 7 2.3",
                   "back_to_back": false,
                   "nights": null,
@@ -685,6 +678,13 @@
                   "property": "Blanc 18 1.7 A",
                   "back_to_back": true,
                   "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": true,
+                  "nights": 4,
                   "people": 2,
                   "empty_days": null
                 },
