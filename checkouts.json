@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T09:10:08+00:00",
+  "generated_at": "2026-09-25T14:50:50+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-25",
@@ -79,9 +79,9 @@
                 },
                 {
                   "property": "Beira Ria Loft",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -96,7 +96,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 4
+                  "empty_days": 1
                 },
                 {
                   "property": "Canal G",
@@ -145,21 +145,7 @@
       "teams": [
         {
           "team": "Ana Clara",
-          "days": [
-            {
-              "date": "2026-09-26",
-              "weekday": "Sábado",
-              "checkouts": [
-                {
-                  "property": "White 405",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
+          "days": []
         },
         {
           "team": "Helga Carvalho",
@@ -178,10 +164,10 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 6
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
                 }
               ]
             }
@@ -194,6 +180,13 @@
               "date": "2026-09-26",
               "weekday": "Sábado",
               "checkouts": [
+                {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Blanc 18 1.7 A",
                   "back_to_back": true,
@@ -217,9 +210,9 @@
                 },
                 {
                   "property": "Square B",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -326,19 +319,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
-                }
-              ]
-            },
-            {
-              "date": "2026-09-26",
-              "weekday": "Sábado",
-              "checkouts": [
-                {
-                  "property": "White 405",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
                 }
               ]
             },
@@ -461,10 +441,10 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 6
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
                 }
               ]
             },
@@ -472,6 +452,13 @@
               "date": "2026-09-27",
               "weekday": "Domingo",
               "checkouts": [
+                {
+                  "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 5
+                },
                 {
                   "property": "iConik 1.1",
                   "back_to_back": false,
@@ -614,9 +601,9 @@
                 },
                 {
                   "property": "Beira Ria Loft",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -631,7 +618,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 4
+                  "empty_days": 1
                 },
                 {
                   "property": "Canal G",
@@ -675,6 +662,13 @@
               "weekday": "Sábado",
               "checkouts": [
                 {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Blanc 18 1.7 A",
                   "back_to_back": true,
                   "nights": 1,
@@ -697,9 +691,9 @@
                 },
                 {
                   "property": "Square B",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -737,11 +731,25 @@
                   "empty_days": null
                 },
                 {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                },
+                {
                   "property": "Canal I",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
                   "empty_days": 3
+                },
+                {
+                  "property": "Square B",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             }
@@ -765,6 +773,13 @@
                   "back_to_back": true,
                   "nights": 7,
                   "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 }
               ]
@@ -791,13 +806,26 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 5
                 },
                 {
                   "property": "iConik 2.1",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-10-01",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "iConik 3.1",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 7,
                   "empty_days": null
                 }
               ]
