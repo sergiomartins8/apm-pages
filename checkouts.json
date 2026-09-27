@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T03:31:00+00:00",
+  "generated_at": "2026-09-27T09:36:56+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-27",
@@ -86,9 +86,9 @@
                 },
                 {
                   "property": "Blanc 18 1.6 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -208,6 +208,13 @@
               "date": "2026-09-28",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal K",
                   "back_to_back": false,
@@ -732,9 +739,9 @@
                 },
                 {
                   "property": "Blanc 18 1.6 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -880,6 +887,13 @@
               "date": "2026-09-28",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal K",
                   "back_to_back": false,
