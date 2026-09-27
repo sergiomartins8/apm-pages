@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T19:23:06+00:00",
+  "generated_at": "2026-09-27T22:39:14+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-27",
@@ -47,10 +47,10 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 1.1",
@@ -183,6 +183,13 @@
               "date": "2026-09-28",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 4
+                },
                 {
                   "property": "iConik 1.2",
                   "back_to_back": false,
@@ -475,10 +482,10 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 1.1",
@@ -849,6 +856,13 @@
               "date": "2026-09-28",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 4
+                },
                 {
                   "property": "iConik 1.2",
                   "back_to_back": false,
