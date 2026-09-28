@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:15:22+00:00",
+  "generated_at": "2026-09-28T18:51:35+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-28",
@@ -82,7 +82,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 5
                 },
                 {
                   "property": "Canal K",
@@ -93,10 +93,10 @@
                 },
                 {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView D",
@@ -292,7 +292,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 5
                 },
                 {
                   "property": "Canal K",
@@ -303,10 +303,10 @@
                 },
                 {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView D",
@@ -402,6 +402,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 8
+                }
+              ]
+            },
+            {
+              "date": "2026-10-03",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Canal L",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -566,6 +579,19 @@
                 },
                 {
                   "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-10-08",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
