@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T08:05:14+00:00",
+  "generated_at": "2026-09-28T10:15:22+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-28",
@@ -103,7 +103,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 6
+                  "empty_days": 2
                 },
                 {
                   "property": "GreenView F",
@@ -145,6 +145,13 @@
               "date": "2026-09-29",
               "weekday": "Terça",
               "checkouts": [
+                {
+                  "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
                 {
                   "property": "Ruela 96",
                   "back_to_back": false,
@@ -306,7 +313,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 6
+                  "empty_days": 2
                 },
                 {
                   "property": "GreenView F",
@@ -321,6 +328,13 @@
               "date": "2026-09-29",
               "weekday": "Terça",
               "checkouts": [
+                {
+                  "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
                 {
                   "property": "Ruela 96",
                   "back_to_back": false,
@@ -374,6 +388,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "GreenView D",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
                 },
                 {
                   "property": "Ria Laço F",
