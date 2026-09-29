@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:37:01+00:00",
+  "generated_at": "2026-09-29T14:25:39+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-29",
@@ -41,13 +41,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
-                },
-                {
-                  "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
                 }
               ]
             }
@@ -109,6 +102,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 2
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
                 }
               ]
             }
@@ -192,7 +192,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 4
                 }
               ]
             },
@@ -285,13 +285,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
-                },
-                {
-                  "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
                 }
               ]
             },
@@ -312,6 +305,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 2
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
                 }
               ]
             },
@@ -328,9 +328,9 @@
                 },
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -451,6 +451,13 @@
                   "empty_days": null
                 },
                 {
+                  "property": "iConik 2.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "iConik 3.1",
                   "back_to_back": false,
                   "nights": null,
@@ -488,6 +495,13 @@
               "date": "2026-10-05",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal K",
                   "back_to_back": false,
