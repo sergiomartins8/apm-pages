@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T07:37:09+00:00",
+  "generated_at": "2026-09-30T14:20:41+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-30",
@@ -51,10 +51,10 @@
                 },
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal K",
@@ -126,7 +126,21 @@
         },
         {
           "team": "Sirlane",
-          "days": []
+          "days": [
+            {
+              "date": "2026-10-01",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -329,10 +343,10 @@
                 },
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal K",
@@ -347,6 +361,19 @@
                   "nights": 2,
                   "people": 2,
                   "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-10-01",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             },
