@@ -1,54 +1,7 @@
 {
-  "generated_at": "2026-09-29T20:19:43+00:00",
+  "generated_at": "2026-09-30T00:50:45+00:00",
   "scopes": {
     "today": {
-      "start": "2026-09-29",
-      "end": "2026-09-29",
-      "teams": [
-        {
-          "team": "Ana Clara",
-          "days": []
-        },
-        {
-          "team": "Helga Carvalho",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": []
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": []
-        },
-        {
-          "team": "Sirlane",
-          "days": [
-            {
-              "date": "2026-09-29",
-              "weekday": "Terça",
-              "checkouts": [
-                {
-                  "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
-                {
-                  "property": "Ruela 96",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-09-30",
       "end": "2026-09-30",
       "teams": [
@@ -101,7 +54,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 14
+                  "empty_days": 2
                 },
                 {
                   "property": "Canal K",
@@ -120,6 +73,60 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-10-01",
+      "end": "2026-10-01",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": []
+        },
+        {
+          "team": "Helga Carvalho",
+          "days": []
+        },
+        {
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-10-01",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                },
+                {
+                  "property": "iConik 2.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "iConik 3.1",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 7,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Sirlane",
+          "days": []
         }
       ]
     },
@@ -325,7 +332,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 14
+                  "empty_days": 2
                 },
                 {
                   "property": "Canal K",
@@ -523,6 +530,13 @@
               "date": "2026-10-05",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 9
+                },
                 {
                   "property": "Canal I",
                   "back_to_back": false,
