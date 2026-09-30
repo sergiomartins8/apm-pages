@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:20:41+00:00",
+  "generated_at": "2026-09-30T20:23:49+00:00",
   "scopes": {
     "today": {
       "start": "2026-09-30",
@@ -167,7 +167,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 }
               ]
             },
@@ -177,6 +177,19 @@
               "checkouts": [
                 {
                   "property": "Cais do Sal E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-10-03",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "White 405",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -591,6 +604,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 7
+                },
+                {
+                  "property": "Square B",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "Tomasias 23 A",
