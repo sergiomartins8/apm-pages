@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:54:08+00:00",
+  "generated_at": "2026-10-01T20:38:24+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-01",
@@ -58,10 +58,10 @@
               "checkouts": [
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             }
@@ -97,6 +97,13 @@
               "weekday": "Sexta",
               "checkouts": [
                 {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
                   "property": "Canal G",
                   "back_to_back": false,
                   "nights": null,
@@ -112,10 +119,10 @@
                 },
                 {
                   "property": "GreenView D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Ria Laço F",
@@ -396,10 +403,10 @@
               "checkouts": [
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 4,
+                  "empty_days": null
                 }
               ]
             },
@@ -407,6 +414,13 @@
               "date": "2026-10-02",
               "weekday": "Sexta",
               "checkouts": [
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal G",
                   "back_to_back": false,
@@ -423,10 +437,10 @@
                 },
                 {
                   "property": "GreenView D",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Ria Laço F",
@@ -463,9 +477,9 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
@@ -473,6 +487,13 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "GreenView D",
+                  "back_to_back": true,
+                  "nights": 8,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -738,6 +759,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 7
+                }
+              ]
+            },
+            {
+              "date": "2026-10-11",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             }
