@@ -256,18 +256,6 @@
       ]
     },
     {
-      "name": "Palacete",
-      "codes": {
-        "building": "#8210#"
-      },
-      "units": [
-        {
-          "name": "Palacete Q",
-          "lock": "tedee"
-        }
-      ]
-    },
-    {
       "name": "Vela Marina 270",
       "codes": {
         "building": "1792"
@@ -282,7 +270,7 @@
     {
       "name": "NB Life",
       "codes": {
-        "building": "*96986009#"
+        "building": "0324#"
       },
       "units": [
         {
