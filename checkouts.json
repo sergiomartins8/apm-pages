@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T12:49:06+00:00",
+  "generated_at": "2026-10-03T17:41:11+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-03",
@@ -143,6 +143,13 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Gran Ria E",
+                  "back_to_back": true,
+                  "nights": 8,
+                  "people": 5,
                   "empty_days": null
                 },
                 {
@@ -518,6 +525,13 @@
                   "empty_days": null
                 },
                 {
+                  "property": "Gran Ria E",
+                  "back_to_back": true,
+                  "nights": 8,
+                  "people": 5,
+                  "empty_days": null
+                },
+                {
                   "property": "GreenView D",
                   "back_to_back": true,
                   "nights": 8,
@@ -753,7 +767,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 },
                 {
                   "property": "Ria Laço F",
@@ -814,6 +828,13 @@
               "date": "2026-10-11",
               "weekday": "Domingo",
               "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Blanc 18 3.6",
                   "back_to_back": false,
