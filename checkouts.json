@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:41:11+00:00",
+  "generated_at": "2026-10-03T20:18:25+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-03",
@@ -143,7 +143,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 5
                 },
                 {
                   "property": "Gran Ria E",
@@ -522,7 +522,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 5
                 },
                 {
                   "property": "Gran Ria E",
