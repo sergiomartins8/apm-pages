@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:12:07+00:00",
+  "generated_at": "2026-10-04T07:31:48+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-04",
@@ -51,10 +51,10 @@
                 },
                 {
                   "property": "Blanc 7 2.3",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Gran Ria E",
@@ -181,6 +181,13 @@
                   "empty_days": 9
                 },
                 {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 4
+                },
+                {
                   "property": "Canal G",
                   "back_to_back": false,
                   "nights": null,
@@ -192,7 +199,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 9
                 },
                 {
                   "property": "Canal K",
@@ -582,10 +589,10 @@
                 },
                 {
                   "property": "Blanc 7 2.3",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
                 },
                 {
                   "property": "Gran Ria E",
@@ -778,6 +785,13 @@
                   "empty_days": 9
                 },
                 {
+                  "property": "Blanc 7 2.3",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 4
+                },
+                {
                   "property": "Canal G",
                   "back_to_back": false,
                   "nights": null,
@@ -789,7 +803,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 9
                 },
                 {
                   "property": "Canal K",
