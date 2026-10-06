@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T11:23:04+00:00",
+  "generated_at": "2026-10-06T14:48:33+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-06",
@@ -57,7 +57,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 4
+                  "empty_days": 2
                 }
               ]
             }
@@ -86,10 +86,10 @@
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             }
@@ -124,6 +124,13 @@
               "date": "2026-10-07",
               "weekday": "Quarta",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
                 {
                   "property": "Canal L",
                   "back_to_back": false,
@@ -287,7 +294,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 4
+                  "empty_days": 2
                 }
               ]
             },
@@ -301,6 +308,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 2
+                }
+              ]
+            },
+            {
+              "date": "2026-10-09",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             },
@@ -338,7 +358,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 3
+                  "empty_days": 1
                 },
                 {
                   "property": "Blanc 28 2.10",
@@ -387,7 +407,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -418,10 +438,10 @@
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             },
@@ -429,6 +449,13 @@
               "date": "2026-10-07",
               "weekday": "Quarta",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
                 {
                   "property": "Canal L",
                   "back_to_back": false,
@@ -450,11 +477,11 @@
               "weekday": "Quinta",
               "checkouts": [
                 {
-                  "property": "Blanc 18 1.6 A",
+                  "property": "Ria Laço F",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 }
               ]
             },
@@ -618,6 +645,13 @@
               "weekday": "Segunda",
               "checkouts": [
                 {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Blanc 7 2.3",
                   "back_to_back": false,
                   "nights": null,
@@ -653,6 +687,13 @@
                 },
                 {
                   "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Square B",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
