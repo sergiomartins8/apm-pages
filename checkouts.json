@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:48:33+00:00",
+  "generated_at": "2026-10-06T17:31:06+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-06",
@@ -14,10 +14,10 @@
               "checkouts": [
                 {
                   "property": "DOCA 1 A 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "White 405",
@@ -103,7 +103,21 @@
       "teams": [
         {
           "team": "Ana Clara",
-          "days": []
+          "days": [
+            {
+              "date": "2026-10-07",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "DOCA 1 A 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Helga Carvalho",
@@ -191,10 +205,10 @@
               "checkouts": [
                 {
                   "property": "DOCA 1 A 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "White 405",
@@ -202,6 +216,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 3
+                }
+              ]
+            },
+            {
+              "date": "2026-10-07",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "DOCA 1 A 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
                 }
               ]
             },
