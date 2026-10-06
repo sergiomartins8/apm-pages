@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T03:32:16+00:00",
+  "generated_at": "2026-10-06T10:52:27+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-06",
@@ -17,7 +17,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 3
                 },
                 {
                   "property": "White 405",
@@ -187,7 +187,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 3
                 },
                 {
                   "property": "White 405",
@@ -394,7 +394,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 8
+                  "empty_days": 1
                 }
               ]
             },
@@ -509,6 +509,19 @@
         {
           "team": "Ana Clara",
           "days": [
+            {
+              "date": "2026-10-12",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "DOCA 1 A 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
             {
               "date": "2026-10-17",
               "weekday": "Sábado",
@@ -636,6 +649,13 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 1,
                   "empty_days": null
                 }
               ]
