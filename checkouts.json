@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:31:06+00:00",
+  "generated_at": "2026-10-06T21:58:24+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-06",
@@ -50,7 +50,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 4
+                  "empty_days": 1
                 },
                 {
                   "property": "iConik 1.2",
@@ -72,10 +72,10 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView F",
@@ -241,7 +241,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 }
               ]
             },
@@ -287,7 +287,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 5
                 },
                 {
                   "property": "iConik 2.2",
@@ -301,7 +301,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 6
+                  "empty_days": 2
                 }
               ]
             },
@@ -314,7 +314,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 4
+                  "empty_days": 1
                 },
                 {
                   "property": "iConik 1.2",
@@ -344,6 +344,26 @@
               "checkouts": [
                 {
                   "property": "iConik 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                }
+              ]
+            },
+            {
+              "date": "2026-10-10",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "iConik 0.1",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "iConik 3.1",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -451,10 +471,10 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView F",
@@ -504,6 +524,13 @@
               "weekday": "Quinta",
               "checkouts": [
                 {
+                  "property": "Beira Ria 1",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
+                  "empty_days": null
+                },
+                {
                   "property": "Ria Laço F",
                   "back_to_back": false,
                   "nights": null,
@@ -518,10 +545,10 @@
               "checkouts": [
                 {
                   "property": "Canal G",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 7
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal K",
@@ -567,6 +594,13 @@
               "date": "2026-10-12",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "DOCA 1 A 1.2",
                   "back_to_back": false,
@@ -619,6 +653,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 4
+                },
+                {
+                  "property": "iConik 2.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 3.1",
@@ -684,6 +725,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 6
+                },
+                {
+                  "property": "Canal G",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 4
                 },
                 {
                   "property": "Gran Ria E",
