@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T10:52:27+00:00",
+  "generated_at": "2026-10-06T11:23:04+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-06",
@@ -300,7 +300,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 }
               ]
             },
@@ -581,6 +581,13 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "iConik 2.2",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
