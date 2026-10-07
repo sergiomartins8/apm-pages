@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:50:14+00:00",
+  "generated_at": "2026-10-07T14:51:08+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-07",
@@ -108,10 +108,10 @@
               "checkouts": [
                 {
                   "property": "iConik 2.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             }
@@ -310,10 +310,10 @@
               "checkouts": [
                 {
                   "property": "iConik 2.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             },
@@ -339,6 +339,13 @@
                   "back_to_back": true,
                   "nights": 3,
                   "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "iConik 2.2",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
