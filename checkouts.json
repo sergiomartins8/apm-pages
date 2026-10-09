@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:38:50+00:00",
+  "generated_at": "2026-10-09T21:57:30+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-09",
@@ -140,7 +140,21 @@
         },
         {
           "team": "Sirlane",
-          "days": []
+          "days": [
+            {
+              "date": "2026-10-10",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 4,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -541,7 +555,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 2
+                  "empty_days": 1
                 },
                 {
                   "property": "Ria Laço F",
@@ -575,6 +589,19 @@
                   "back_to_back": true,
                   "nights": 4,
                   "people": 2,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-10-10",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 4,
                   "empty_days": null
                 }
               ]
