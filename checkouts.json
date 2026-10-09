@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:59:21+00:00",
+  "generated_at": "2026-10-09T17:38:50+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-09",
@@ -40,10 +40,10 @@
               "checkouts": [
                 {
                   "property": "iConik 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -111,6 +111,13 @@
                   "back_to_back": true,
                   "nights": 3,
                   "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -329,10 +336,10 @@
               "checkouts": [
                 {
                   "property": "iConik 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             },
@@ -345,6 +352,13 @@
                   "back_to_back": true,
                   "nights": 3,
                   "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -404,7 +418,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 9
+                  "empty_days": 6
                 },
                 {
                   "property": "Blanc 7 2.3",
@@ -760,10 +774,17 @@
                 },
                 {
                   "property": "Blanc 18 1.6 A",
+                  "back_to_back": true,
+                  "nights": 7,
+                  "people": 1,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 28 2.10",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 },
                 {
                   "property": "Blanc 7 2.3",
