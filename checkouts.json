@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:20:09+00:00",
+  "generated_at": "2026-10-09T10:59:21+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-09",
@@ -571,9 +571,9 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
                   "empty_days": null
                 },
                 {
@@ -605,7 +605,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "DOCA 1 A 1.2",
@@ -745,6 +745,13 @@
               "weekday": "Segunda",
               "checkouts": [
                 {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Beira Ria Loft",
                   "back_to_back": false,
                   "nights": null,
@@ -791,7 +798,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 5
                 },
                 {
                   "property": "GreenView F",
