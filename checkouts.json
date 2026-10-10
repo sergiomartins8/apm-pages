@@ -1,89 +1,7 @@
 {
-  "generated_at": "2026-10-09T21:57:30+00:00",
+  "generated_at": "2026-10-10T01:24:53+00:00",
   "scopes": {
     "today": {
-      "start": "2026-10-09",
-      "end": "2026-10-09",
-      "teams": [
-        {
-          "team": "Ana Clara",
-          "days": [
-            {
-              "date": "2026-10-09",
-              "weekday": "Sexta",
-              "checkouts": [
-                {
-                  "property": "DOCA 2 A 0.6",
-                  "back_to_back": true,
-                  "nights": 7,
-                  "people": 2,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Helga Carvalho",
-          "days": []
-        },
-        {
-          "team": "Liliane",
-          "days": []
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": [
-            {
-              "date": "2026-10-09",
-              "weekday": "Sexta",
-              "checkouts": [
-                {
-                  "property": "iConik 1.2",
-                  "back_to_back": true,
-                  "nights": 1,
-                  "people": 2,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Sirlane",
-          "days": [
-            {
-              "date": "2026-10-09",
-              "weekday": "Sexta",
-              "checkouts": [
-                {
-                  "property": "Canal G",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Canal K",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Ruela 96",
-                  "back_to_back": true,
-                  "nights": 4,
-                  "people": 2,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-10-10",
       "end": "2026-10-10",
       "teams": [
@@ -129,10 +47,10 @@
                 },
                 {
                   "property": "iConik 3.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 6,
+                  "empty_days": null
                 }
               ]
             }
@@ -150,6 +68,88 @@
                   "back_to_back": true,
                   "nights": 2,
                   "people": 4,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-10-11",
+      "end": "2026-10-11",
+      "teams": [
+        {
+          "team": "Ana Clara",
+          "days": [
+            {
+              "date": "2026-10-11",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Helga Carvalho",
+          "days": []
+        },
+        {
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-10-11",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "iConik 1.2",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "iConik 3.1",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Sirlane",
+          "days": [
+            {
+              "date": "2026-10-11",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": true,
+                  "nights": 20,
+                  "people": 1,
                   "empty_days": null
                 }
               ]
@@ -384,10 +384,10 @@
                 },
                 {
                   "property": "iConik 3.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 6,
+                  "empty_days": null
                 }
               ]
             },
@@ -397,6 +397,13 @@
               "checkouts": [
                 {
                   "property": "iConik 1.2",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "iConik 3.1",
                   "back_to_back": true,
                   "nights": 1,
                   "people": 2,
