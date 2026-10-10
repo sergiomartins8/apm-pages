@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T07:50:20+00:00",
+  "generated_at": "2026-10-10T14:03:40+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-10",
@@ -149,6 +149,13 @@
                   "property": "Blanc 18 3.6",
                   "back_to_back": true,
                   "nights": 20,
+                  "people": 1,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": true,
+                  "nights": 1,
                   "people": 1,
                   "empty_days": null
                 }
@@ -439,7 +446,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 6
+                  "empty_days": 5
                 },
                 {
                   "property": "Blanc 7 2.3",
@@ -630,6 +637,13 @@
                   "nights": 20,
                   "people": 1,
                   "empty_days": null
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             }
@@ -804,7 +818,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 6
                 },
                 {
                   "property": "Blanc 18 1.6 A",
@@ -853,7 +867,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 5
+                  "empty_days": 4
                 },
                 {
                   "property": "GreenView F",
@@ -887,7 +901,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 10
                 },
                 {
                   "property": "Square B",
