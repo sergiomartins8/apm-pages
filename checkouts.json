@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T19:06:58+00:00",
+  "generated_at": "2026-10-11T19:09:15+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-11",
@@ -106,6 +106,13 @@
                 },
                 {
                   "property": "DOCA 1 A 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Historia",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -743,6 +750,13 @@
                 },
                 {
                   "property": "DOCA 1 A 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Historia",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
