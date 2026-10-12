@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T08:12:15+00:00",
+  "generated_at": "2026-10-12T14:13:40+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-12",
@@ -21,9 +21,9 @@
                 },
                 {
                   "property": "DOCA 1 A 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
@@ -92,7 +92,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 },
                 {
                   "property": "Beira Ria Loft",
@@ -233,7 +233,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 10
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -268,9 +268,9 @@
                 },
                 {
                   "property": "DOCA 1 A 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
@@ -292,6 +292,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 5
+                }
+              ]
+            },
+            {
+              "date": "2026-10-15",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "DOCA 1 A 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
@@ -424,7 +437,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 2
                 },
                 {
                   "property": "Beira Ria Loft",
@@ -521,7 +534,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 10
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -623,6 +636,13 @@
               "date": "2026-10-18",
               "weekday": "Domingo",
               "checkouts": [
+                {
+                  "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Blanc 28 2.10",
                   "back_to_back": false,
