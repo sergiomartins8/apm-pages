@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:38:00+00:00",
+  "generated_at": "2026-10-13T17:13:36+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-13",
@@ -114,7 +114,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 3
                 },
                 {
                   "property": "Canal G",
@@ -166,7 +166,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 }
               ]
             },
@@ -443,7 +443,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 3
                 },
                 {
                   "property": "Canal G",
@@ -470,7 +470,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 25
+                  "empty_days": 1
                 }
               ]
             },
@@ -527,6 +527,13 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 18 1.7 A",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -614,6 +621,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Canal L",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 21
                 },
                 {
                   "property": "Ria Laço F",
