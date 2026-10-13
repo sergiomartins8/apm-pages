@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:13:36+00:00",
+  "generated_at": "2026-10-13T22:03:23+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-13",
@@ -71,7 +71,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 10
+                  "empty_days": 1
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -423,7 +423,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 10
+                  "empty_days": 1
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -471,6 +471,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                },
+                {
+                  "property": "Square B",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 8
                 }
               ]
             },
@@ -627,7 +634,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 21
+                  "empty_days": 5
                 },
                 {
                   "property": "Ria Laço F",
