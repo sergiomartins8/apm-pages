@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T01:43:06+00:00",
+  "generated_at": "2026-10-13T08:38:00+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-13",
@@ -92,21 +92,7 @@
       "teams": [
         {
           "team": "Ana Clara",
-          "days": [
-            {
-              "date": "2026-10-14",
-              "weekday": "Quarta",
-              "checkouts": [
-                {
-                  "property": "White 405",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
-                }
-              ]
-            }
-          ]
+          "days": []
         },
         {
           "team": "Liliane",
@@ -185,19 +171,6 @@
               ]
             },
             {
-              "date": "2026-10-14",
-              "weekday": "Quarta",
-              "checkouts": [
-                {
-                  "property": "White 405",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
-                }
-              ]
-            },
-            {
               "date": "2026-10-15",
               "weekday": "Quinta",
               "checkouts": [
@@ -207,6 +180,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 4
                 }
               ]
             },
