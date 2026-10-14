@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:46:26+00:00",
+  "generated_at": "2026-10-14T19:48:41+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-14",
@@ -40,9 +40,9 @@
                 },
                 {
                   "property": "GreenView F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 4,
                   "empty_days": null
                 }
               ]
@@ -454,9 +454,9 @@
                 },
                 {
                   "property": "GreenView F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 4,
                   "empty_days": null
                 }
               ]
@@ -491,6 +491,13 @@
                   "nights": 9,
                   "people": 2,
                   "empty_days": null
+                },
+                {
+                  "property": "GreenView F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
@@ -503,7 +510,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 4
                 },
                 {
                   "property": "Canal K",
@@ -524,7 +531,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 54
                 }
               ]
             },
@@ -702,6 +709,13 @@
               "date": "2026-10-25",
               "weekday": "Domingo",
               "checkouts": [
+                {
+                  "property": "Beira Ria 2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "GreenView D",
                   "back_to_back": false,
