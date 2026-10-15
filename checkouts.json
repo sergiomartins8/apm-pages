@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:31:27+00:00",
+  "generated_at": "2026-10-15T19:33:09+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-15",
@@ -82,10 +82,10 @@
                 },
                 {
                   "property": "Square B",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 8
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             }
@@ -509,10 +509,10 @@
                 },
                 {
                   "property": "Square B",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 8
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             },
@@ -567,6 +567,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Square B",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 6
                 },
                 {
                   "property": "Tomasias 23 A",
