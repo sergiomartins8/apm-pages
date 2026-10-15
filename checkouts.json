@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:36:36+00:00",
+  "generated_at": "2026-10-15T14:31:27+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-15",
@@ -21,10 +21,10 @@
                 },
                 {
                   "property": "White 405",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             }
@@ -131,6 +131,13 @@
               "weekday": "Sexta",
               "checkouts": [
                 {
+                  "property": "Canal G",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
                   "property": "GreenView D",
                   "back_to_back": true,
                   "nights": 9,
@@ -197,10 +204,10 @@
                 },
                 {
                   "property": "White 405",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             },
@@ -227,6 +234,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
                 }
               ]
             }
@@ -430,7 +444,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 10
+                  "empty_days": 3
                 },
                 {
                   "property": "Square B",
@@ -464,7 +478,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 2
+                  "empty_days": 1
                 },
                 {
                   "property": "GreenView F",
@@ -506,6 +520,13 @@
               "date": "2026-10-16",
               "weekday": "Sexta",
               "checkouts": [
+                {
+                  "property": "Canal G",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "GreenView D",
                   "back_to_back": true,
@@ -580,6 +601,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 5
                 }
               ]
             }
