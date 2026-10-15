@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T02:04:51+00:00",
+  "generated_at": "2026-10-15T08:40:02+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-15",
@@ -569,9 +569,9 @@
                 },
                 {
                   "property": "Blanc 18 1.7 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 8,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
