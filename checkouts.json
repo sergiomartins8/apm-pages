@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:31:46+00:00",
+  "generated_at": "2026-10-16T12:48:06+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-16",
@@ -54,9 +54,9 @@
                 },
                 {
                   "property": "GreenView F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -100,7 +100,21 @@
         },
         {
           "team": "Mara Cardoso",
-          "days": []
+          "days": [
+            {
+              "date": "2026-10-17",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Sirlane",
@@ -309,7 +323,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "iConik 1.2",
@@ -317,6 +331,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                }
+              ]
+            },
+            {
+              "date": "2026-10-17",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
@@ -529,9 +556,9 @@
                 },
                 {
                   "property": "GreenView F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -691,6 +718,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 5
+                },
+                {
+                  "property": "GreenView F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "Ria Laço F",
