@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T12:48:06+00:00",
+  "generated_at": "2026-10-16T17:45:05+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-16",
@@ -107,9 +107,9 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 1,
                   "empty_days": null
                 }
               ]
@@ -340,9 +340,9 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 1,
                   "empty_days": null
                 }
               ]
@@ -696,7 +696,21 @@
         },
         {
           "team": "Mara Cardoso",
-          "days": []
+          "days": [
+            {
+              "date": "2026-10-22",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Sirlane",
