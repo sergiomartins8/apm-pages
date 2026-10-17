@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:02:10+00:00",
+  "generated_at": "2026-10-17T03:20:30+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-17",
@@ -14,9 +14,9 @@
               "checkouts": [
                 {
                   "property": "NB Life V",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
                   "empty_days": null
                 },
                 {
@@ -265,9 +265,9 @@
               "checkouts": [
                 {
                   "property": "NB Life V",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 3,
                   "empty_days": null
                 },
                 {
@@ -697,6 +697,19 @@
         {
           "team": "Ana Clara",
           "days": [
+            {
+              "date": "2026-10-20",
+              "weekday": "Terça",
+              "checkouts": [
+                {
+                  "property": "NB Life V",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
             {
               "date": "2026-10-21",
               "weekday": "Quarta",
