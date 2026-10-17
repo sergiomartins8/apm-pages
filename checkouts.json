@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T16:44:11+00:00",
+  "generated_at": "2026-10-17T19:47:18+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-17",
@@ -82,10 +82,10 @@
                 },
                 {
                   "property": "Square B",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 6
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
+                  "empty_days": null
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -135,9 +135,9 @@
               "checkouts": [
                 {
                   "property": "iConik 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 11,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -195,6 +195,13 @@
                 },
                 {
                   "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Square B",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -415,9 +422,9 @@
               "checkouts": [
                 {
                   "property": "iConik 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 11,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -673,10 +680,10 @@
                 },
                 {
                   "property": "Square B",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 6
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
+                  "empty_days": null
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -721,6 +728,13 @@
                 },
                 {
                   "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "Square B",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -942,6 +956,19 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-10-23",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
