@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:19:19+00:00",
+  "generated_at": "2026-10-17T13:20:15+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-17",
@@ -157,6 +157,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                },
+                {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 18 1.7 A",
@@ -423,7 +430,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 6
+                  "empty_days": 5
                 },
                 {
                   "property": "Blanc 18 1.6 A",
@@ -663,6 +670,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
+                },
+                {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Blanc 18 1.7 A",
