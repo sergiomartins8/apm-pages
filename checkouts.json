@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:56:33+00:00",
+  "generated_at": "2026-10-17T16:44:11+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-17",
@@ -15,16 +15,16 @@
                 {
                   "property": "NB Life V",
                   "back_to_back": true,
-                  "nights": 3,
+                  "nights": 4,
                   "people": 3,
                   "empty_days": null
                 },
                 {
                   "property": "White 405",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -106,7 +106,21 @@
       "teams": [
         {
           "team": "Ana Clara",
-          "days": []
+          "days": [
+            {
+              "date": "2026-10-18",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                }
+              ]
+            }
+          ]
         },
         {
           "team": "Liliane",
@@ -135,9 +149,9 @@
                 },
                 {
                   "property": "iConik 3.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -188,10 +202,10 @@
                 },
                 {
                   "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 53
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -273,16 +287,29 @@
                 {
                   "property": "NB Life V",
                   "back_to_back": true,
-                  "nights": 3,
+                  "nights": 4,
                   "people": 3,
                   "empty_days": null
                 },
                 {
                   "property": "White 405",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-10-18",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "White 405",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 2
+                  "empty_days": 1
                 }
               ]
             }
@@ -402,9 +429,9 @@
                 },
                 {
                   "property": "iConik 3.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
                   "empty_days": null
                 }
               ]
@@ -701,10 +728,10 @@
                 },
                 {
                   "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 53
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 }
               ]
             }
@@ -733,22 +760,16 @@
               ]
             },
             {
-              "date": "2026-10-20",
-              "weekday": "Terça",
+              "date": "2026-10-21",
+              "weekday": "Quarta",
               "checkouts": [
                 {
                   "property": "NB Life V",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 4
-                }
-              ]
-            },
-            {
-              "date": "2026-10-21",
-              "weekday": "Quarta",
-              "checkouts": [
+                  "empty_days": 3
+                },
                 {
                   "property": "Vela Marina FF",
                   "back_to_back": false,
@@ -793,6 +814,19 @@
         {
           "team": "Mara Cardoso",
           "days": [
+            {
+              "date": "2026-10-20",
+              "weekday": "Terça",
+              "checkouts": [
+                {
+                  "property": "iConik 3.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
             {
               "date": "2026-10-22",
               "weekday": "Quinta",
@@ -869,6 +903,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 13
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 51
                 }
               ]
             },
