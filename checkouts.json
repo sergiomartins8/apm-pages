@@ -1,28 +1,10 @@
 {
-  "generated_at": "2026-10-18T06:44:12+00:00",
+  "generated_at": "2026-10-18T10:25:12+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-18",
       "end": "2026-10-18",
       "teams": [
-        {
-          "team": "Ana Clara",
-          "days": [
-            {
-              "date": "2026-10-18",
-              "weekday": "Domingo",
-              "checkouts": [
-                {
-                  "property": "White 405",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                }
-              ]
-            }
-          ]
-        },
         {
           "team": "Liliane",
           "days": []
@@ -54,6 +36,24 @@
                   "nights": 2,
                   "people": 2,
                   "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Margarida",
+          "days": [
+            {
+              "date": "2026-10-18",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             }
@@ -126,7 +126,15 @@
       "end": "2026-10-19",
       "teams": [
         {
-          "team": "Ana Clara",
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": []
+        },
+        {
+          "team": "Margarida",
           "days": [
             {
               "date": "2026-10-19",
@@ -142,14 +150,6 @@
               ]
             }
           ]
-        },
-        {
-          "team": "Liliane",
-          "days": []
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": []
         },
         {
           "team": "Sirlane",
@@ -196,104 +196,6 @@
       "start": "2026-10-12",
       "end": "2026-10-18",
       "teams": [
-        {
-          "team": "Ana Clara",
-          "days": [
-            {
-              "date": "2026-10-12",
-              "weekday": "Segunda",
-              "checkouts": [
-                {
-                  "property": "Cais do Sal E",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                },
-                {
-                  "property": "DOCA 1 A 1.2",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 1,
-                  "empty_days": null
-                },
-                {
-                  "property": "Historia",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                }
-              ]
-            },
-            {
-              "date": "2026-10-15",
-              "weekday": "Quinta",
-              "checkouts": [
-                {
-                  "property": "DOCA 1 A 1.2",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
-                },
-                {
-                  "property": "White 405",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 1,
-                  "empty_days": null
-                }
-              ]
-            },
-            {
-              "date": "2026-10-16",
-              "weekday": "Sexta",
-              "checkouts": [
-                {
-                  "property": "DOCA 2 A 0.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 6
-                }
-              ]
-            },
-            {
-              "date": "2026-10-17",
-              "weekday": "Sábado",
-              "checkouts": [
-                {
-                  "property": "NB Life V",
-                  "back_to_back": true,
-                  "nights": 4,
-                  "people": 3,
-                  "empty_days": null
-                },
-                {
-                  "property": "White 405",
-                  "back_to_back": true,
-                  "nights": 1,
-                  "people": 2,
-                  "empty_days": null
-                }
-              ]
-            },
-            {
-              "date": "2026-10-18",
-              "weekday": "Domingo",
-              "checkouts": [
-                {
-                  "property": "White 405",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 1
-                }
-              ]
-            }
-          ]
-        },
         {
           "team": "Liliane",
           "days": []
@@ -412,6 +314,104 @@
                   "nights": 2,
                   "people": 2,
                   "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Margarida",
+          "days": [
+            {
+              "date": "2026-10-12",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
+                {
+                  "property": "DOCA 1 A 1.2",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 1,
+                  "empty_days": null
+                },
+                {
+                  "property": "Historia",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                }
+              ]
+            },
+            {
+              "date": "2026-10-15",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "DOCA 1 A 1.2",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                },
+                {
+                  "property": "White 405",
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 1,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-10-16",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "DOCA 2 A 0.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 6
+                }
+              ]
+            },
+            {
+              "date": "2026-10-17",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "NB Life V",
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 3,
+                  "empty_days": null
+                },
+                {
+                  "property": "White 405",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-10-18",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             }
@@ -730,7 +730,42 @@
       "end": "2026-10-25",
       "teams": [
         {
-          "team": "Ana Clara",
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": [
+            {
+              "date": "2026-10-20",
+              "weekday": "Terça",
+              "checkouts": [
+                {
+                  "property": "iConik 3.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-10-22",
+              "weekday": "Quinta",
+              "checkouts": [
+                {
+                  "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "team": "Margarida",
           "days": [
             {
               "date": "2026-10-19",
@@ -797,41 +832,6 @@
               "checkouts": [
                 {
                   "property": "Cais do Sal E",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "team": "Liliane",
-          "days": []
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": [
-            {
-              "date": "2026-10-20",
-              "weekday": "Terça",
-              "checkouts": [
-                {
-                  "property": "iConik 3.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                }
-              ]
-            },
-            {
-              "date": "2026-10-22",
-              "weekday": "Quinta",
-              "checkouts": [
-                {
-                  "property": "iConik 0.1",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
