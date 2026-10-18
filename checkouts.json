@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T19:47:15+00:00",
+  "generated_at": "2026-10-18T22:00:26+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-18",
@@ -898,10 +898,10 @@
                 },
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 13
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Tomasias 23 A",
@@ -922,6 +922,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Canal I",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 12
                 }
               ]
             },
