@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T02:04:34+00:00",
+  "generated_at": "2026-10-19T09:23:55+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-19",
@@ -132,10 +132,10 @@
                 },
                 {
                   "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 51
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             }
@@ -275,10 +275,10 @@
                 },
                 {
                   "property": "Canal L",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 1,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView F",
@@ -323,10 +323,10 @@
                 },
                 {
                   "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 51
+                  "back_to_back": true,
+                  "nights": 4,
+                  "people": 1,
+                  "empty_days": null
                 }
               ]
             },
@@ -393,6 +393,20 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Canal L",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 47
                 }
               ]
             },
