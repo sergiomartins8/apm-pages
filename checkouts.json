@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:42:10+00:00",
+  "generated_at": "2026-10-19T21:49:18+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-19",
@@ -54,9 +54,9 @@
                 },
                 {
                   "property": "GreenView F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 5,
                   "empty_days": null
                 },
                 {
@@ -128,6 +128,13 @@
                   "back_to_back": true,
                   "nights": 1,
                   "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "GreenView F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 },
                 {
@@ -282,9 +289,9 @@
                 },
                 {
                   "property": "GreenView F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 5,
                   "empty_days": null
                 },
                 {
@@ -319,6 +326,13 @@
                   "back_to_back": true,
                   "nights": 1,
                   "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "GreenView F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
                   "empty_days": null
                 },
                 {
@@ -550,7 +564,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 18
                 },
                 {
                   "property": "Ruela 96",
