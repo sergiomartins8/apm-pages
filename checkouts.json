@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T06:48:28+00:00",
+  "generated_at": "2026-10-20T13:07:32+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-20",
@@ -11,21 +11,7 @@
         },
         {
           "team": "Mara Cardoso",
-          "days": [
-            {
-              "date": "2026-10-20",
-              "weekday": "Terça",
-              "checkouts": [
-                {
-                  "property": "iConik 3.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
+          "days": []
         },
         {
           "team": "Margarida",
@@ -99,13 +85,6 @@
               "weekday": "Quarta",
               "checkouts": [
                 {
-                  "property": "NB Life V",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
-                },
-                {
                   "property": "Vela Marina FF",
                   "back_to_back": false,
                   "nights": null,
@@ -155,11 +134,11 @@
           "team": "Mara Cardoso",
           "days": [
             {
-              "date": "2026-10-20",
-              "weekday": "Terça",
+              "date": "2026-10-22",
+              "weekday": "Quinta",
               "checkouts": [
                 {
-                  "property": "iConik 3.1",
+                  "property": "iConik 0.1",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -168,11 +147,11 @@
               ]
             },
             {
-              "date": "2026-10-22",
-              "weekday": "Quinta",
+              "date": "2026-10-23",
+              "weekday": "Sexta",
               "checkouts": [
                 {
-                  "property": "iConik 0.1",
+                  "property": "iConik 3.1",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -203,13 +182,6 @@
               "weekday": "Quarta",
               "checkouts": [
                 {
-                  "property": "NB Life V",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
-                },
-                {
                   "property": "Vela Marina FF",
                   "back_to_back": false,
                   "nights": null,
@@ -222,6 +194,13 @@
               "date": "2026-10-22",
               "weekday": "Quinta",
               "checkouts": [
+                {
+                  "property": "NB Life V",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                },
                 {
                   "property": "White 405",
                   "back_to_back": false,
@@ -553,11 +532,18 @@
                   "empty_days": null
                 },
                 {
+                  "property": "Gran Ria E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Ria Laço F",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 18
+                  "empty_days": 8
                 },
                 {
                   "property": "Ruela 96",
