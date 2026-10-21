@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T08:57:30+00:00",
+  "generated_at": "2026-10-21T14:45:44+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-21",
@@ -68,21 +68,7 @@
         },
         {
           "team": "Mara Cardoso",
-          "days": [
-            {
-              "date": "2026-10-22",
-              "weekday": "Quinta",
-              "checkouts": [
-                {
-                  "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
+          "days": []
         },
         {
           "team": "Margarida",
@@ -91,13 +77,6 @@
               "date": "2026-10-22",
               "weekday": "Quinta",
               "checkouts": [
-                {
-                  "property": "NB Life V",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
-                },
                 {
                   "property": "White 405",
                   "back_to_back": false,
@@ -148,8 +127,8 @@
           "team": "Mara Cardoso",
           "days": [
             {
-              "date": "2026-10-22",
-              "weekday": "Quinta",
+              "date": "2026-10-23",
+              "weekday": "Sexta",
               "checkouts": [
                 {
                   "property": "iConik 0.1",
@@ -157,13 +136,7 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
-                }
-              ]
-            },
-            {
-              "date": "2026-10-23",
-              "weekday": "Sexta",
-              "checkouts": [
+                },
                 {
                   "property": "iConik 3.1",
                   "back_to_back": false,
@@ -209,13 +182,6 @@
               "weekday": "Quinta",
               "checkouts": [
                 {
-                  "property": "NB Life V",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 2
-                },
-                {
                   "property": "White 405",
                   "back_to_back": false,
                   "nights": null,
@@ -234,6 +200,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "NB Life V",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
                 }
               ]
             },
@@ -264,7 +237,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 4
                 },
                 {
                   "property": "Canal L",
@@ -394,6 +367,13 @@
               "date": "2026-10-24",
               "weekday": "Sábado",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal K",
                   "back_to_back": false,
