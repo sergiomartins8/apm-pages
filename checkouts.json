@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T14:45:05+00:00",
+  "generated_at": "2026-10-22T19:37:21+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-22",
@@ -123,6 +123,13 @@
               "date": "2026-10-23",
               "weekday": "Sexta",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal G",
                   "back_to_back": false,
@@ -265,7 +272,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 4
+                  "empty_days": 3
                 },
                 {
                   "property": "Canal L",
@@ -375,6 +382,13 @@
               "date": "2026-10-23",
               "weekday": "Sexta",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal G",
                   "back_to_back": false,
