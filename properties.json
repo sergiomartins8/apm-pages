@@ -236,6 +236,22 @@
       ]
     },
     {
+      "name": "Gloria",
+      "codes": {
+        "building": "u2025u"
+      },
+      "units": [
+        {
+          "name": "Gloria 1D",
+          "lock": "tedee"
+        },
+        {
+          "name": "Gloria 1F",
+          "lock": "tedee"
+        }
+      ]
+    },
+    {
       "name": "Ruela",
       "codes": {},
       "units": [
