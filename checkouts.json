@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T06:45:24+00:00",
+  "generated_at": "2026-10-23T08:54:42+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-23",
@@ -125,9 +125,9 @@
                 },
                 {
                   "property": "Canal K",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -418,9 +418,9 @@
                 },
                 {
                   "property": "Canal K",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -573,6 +573,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 2
+                },
+                {
+                  "property": "Canal K",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "Gran Ria E",
