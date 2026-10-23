@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:54:42+00:00",
+  "generated_at": "2026-10-23T14:33:45+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-23",
@@ -21,7 +21,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "iConik 3.1",
@@ -170,10 +170,23 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "iConik 3.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-10-25",
+              "weekday": "Domingo",
+              "checkouts": [
+                {
+                  "property": "iConik 0.1",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -251,9 +264,9 @@
               "checkouts": [
                 {
                   "property": "Cais do Sal E",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 6,
+                  "people": 1,
                   "empty_days": null
                 }
               ]
@@ -506,6 +519,19 @@
                   "empty_days": null
                 }
               ]
+            },
+            {
+              "date": "2026-10-30",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "iConik 2.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
             }
           ]
         },
@@ -550,6 +576,19 @@
                   "empty_days": null
                 }
               ]
+            },
+            {
+              "date": "2026-10-31",
+              "weekday": "Sábado",
+              "checkouts": [
+                {
+                  "property": "Cais do Sal E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
             }
           ]
         },
@@ -576,9 +615,9 @@
                 },
                 {
                   "property": "Canal K",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -670,6 +709,13 @@
                 },
                 {
                   "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Canal K",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
