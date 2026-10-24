@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T08:30:43+00:00",
+  "generated_at": "2026-10-24T12:08:51+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-24",
@@ -26,9 +26,9 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 1.6 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
@@ -44,13 +44,6 @@
                   "nights": 3,
                   "people": 2,
                   "empty_days": null
-                },
-                {
-                  "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
                 }
               ]
             }
@@ -86,21 +79,7 @@
         },
         {
           "team": "Margarida",
-          "days": [
-            {
-              "date": "2026-10-25",
-              "weekday": "Domingo",
-              "checkouts": [
-                {
-                  "property": "Cais do Sal E",
-                  "back_to_back": true,
-                  "nights": 6,
-                  "people": 1,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
+          "days": []
         },
         {
           "team": "Sirlane",
@@ -115,6 +94,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 11
+                },
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "Gloria 1D",
@@ -248,19 +234,6 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 1
-                }
-              ]
-            },
-            {
-              "date": "2026-10-25",
-              "weekday": "Domingo",
-              "checkouts": [
-                {
-                  "property": "Cais do Sal E",
-                  "back_to_back": true,
-                  "nights": 6,
-                  "people": 1,
-                  "empty_days": null
                 }
               ]
             }
@@ -417,9 +390,9 @@
               "checkouts": [
                 {
                   "property": "Blanc 18 1.6 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 1,
                   "empty_days": null
                 },
                 {
@@ -435,13 +408,6 @@
                   "nights": 3,
                   "people": 2,
                   "empty_days": null
-                },
-                {
-                  "property": "Tomasias 23 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 4
                 }
               ]
             },
@@ -455,6 +421,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 11
+                },
+                {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "Gloria 1D",
@@ -613,13 +586,6 @@
               "weekday": "Segunda",
               "checkouts": [
                 {
-                  "property": "Blanc 18 1.7 A",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
-                },
-                {
                   "property": "Blanc 28 2.10",
                   "back_to_back": false,
                   "nights": null,
@@ -660,6 +626,13 @@
               "date": "2026-10-27",
               "weekday": "Terça",
               "checkouts": [
+                {
+                  "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
                 {
                   "property": "Canal I",
                   "back_to_back": false,
