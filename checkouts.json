@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:44:32+00:00",
+  "generated_at": "2026-10-24T17:06:22+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-24",
@@ -96,6 +96,13 @@
                   "empty_days": 11
                 },
                 {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 11
+                },
+                {
                   "property": "Blanc 18 1.6 A",
                   "back_to_back": false,
                   "nights": null,
@@ -104,6 +111,13 @@
                 },
                 {
                   "property": "Gloria 1D",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Gloria 1F",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -122,6 +136,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
                 }
               ]
             }
@@ -292,7 +313,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 16
+                  "empty_days": 4
                 },
                 {
                   "property": "Canal I",
@@ -423,6 +444,13 @@
                   "empty_days": 11
                 },
                 {
+                  "property": "Beira Ria Loft",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 11
+                },
+                {
                   "property": "Blanc 18 1.6 A",
                   "back_to_back": false,
                   "nights": null,
@@ -431,6 +459,13 @@
                 },
                 {
                   "property": "Gloria 1D",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Gloria 1F",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -449,6 +484,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Tomasias 23 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
                 }
               ]
             }
