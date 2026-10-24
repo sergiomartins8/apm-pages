@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T02:14:09+00:00",
+  "generated_at": "2026-10-24T08:30:43+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-24",
@@ -115,6 +115,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 11
+                },
+                {
+                  "property": "Gloria 1D",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView D",
@@ -448,6 +455,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 11
+                },
+                {
+                  "property": "Gloria 1D",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 },
                 {
                   "property": "GreenView D",
