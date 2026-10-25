@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:21:07+00:00",
+  "generated_at": "2026-10-25T20:08:31+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-25",
@@ -283,7 +283,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 8
                 }
               ]
             },
@@ -776,7 +776,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 14
                 }
               ]
             },
