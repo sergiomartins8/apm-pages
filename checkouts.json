@@ -1,57 +1,7 @@
 {
-  "generated_at": "2026-10-24T22:06:13+00:00",
+  "generated_at": "2026-10-25T02:00:25+00:00",
   "scopes": {
     "today": {
-      "start": "2026-10-24",
-      "end": "2026-10-24",
-      "teams": [
-        {
-          "team": "Liliane",
-          "days": []
-        },
-        {
-          "team": "Mara Cardoso",
-          "days": []
-        },
-        {
-          "team": "Margarida",
-          "days": []
-        },
-        {
-          "team": "Sirlane",
-          "days": [
-            {
-              "date": "2026-10-24",
-              "weekday": "Sábado",
-              "checkouts": [
-                {
-                  "property": "Blanc 18 1.6 A",
-                  "back_to_back": true,
-                  "nights": 1,
-                  "people": 1,
-                  "empty_days": null
-                },
-                {
-                  "property": "Canal K",
-                  "back_to_back": true,
-                  "nights": 2,
-                  "people": 2,
-                  "empty_days": null
-                },
-                {
-                  "property": "Canal L",
-                  "back_to_back": true,
-                  "nights": 3,
-                  "people": 2,
-                  "empty_days": null
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "tomorrow": {
       "start": "2026-10-25",
       "end": "2026-10-25",
       "teams": [
@@ -157,6 +107,70 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "tomorrow": {
+      "start": "2026-10-26",
+      "end": "2026-10-26",
+      "teams": [
+        {
+          "team": "Liliane",
+          "days": []
+        },
+        {
+          "team": "Mara Cardoso",
+          "days": []
+        },
+        {
+          "team": "Margarida",
+          "days": []
+        },
+        {
+          "team": "Sirlane",
+          "days": [
+            {
+              "date": "2026-10-26",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 2
+                },
+                {
+                  "property": "Canal K",
+                  "back_to_back": true,
+                  "nights": 5,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Gran Ria E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 58
+                },
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 8
+                },
+                {
+                  "property": "Ruela 96",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             }
@@ -275,7 +289,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 3
                 },
                 {
                   "property": "NB Life V",
@@ -626,6 +640,19 @@
               "checkouts": [
                 {
                   "property": "DOCA 2 A 0.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-10-30",
+              "weekday": "Sexta",
+              "checkouts": [
+                {
+                  "property": "DOCA 1 A 1.2",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
