@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T07:27:22+00:00",
+  "generated_at": "2026-10-26T14:41:58+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-26",
@@ -54,10 +54,10 @@
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 8
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Ruela 96",
@@ -110,7 +110,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 }
               ]
             }
@@ -241,7 +241,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 }
               ]
             },
@@ -267,7 +267,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 17
                 }
               ]
             },
@@ -336,10 +336,10 @@
                 },
                 {
                   "property": "Ria Laço F",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 8
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Ruela 96",
@@ -401,6 +401,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 14
+                },
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 6
                 }
               ]
             },
@@ -509,6 +516,19 @@
               "checkouts": [
                 {
                   "property": "White 405",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
+            {
+              "date": "2026-11-04",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "NB Life V",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
