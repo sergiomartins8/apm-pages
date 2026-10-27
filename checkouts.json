@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:58:47+00:00",
+  "generated_at": "2026-10-27T13:44:32+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-27",
@@ -325,7 +325,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 58
+                  "empty_days": 1
                 },
                 {
                   "property": "GreenView D",
@@ -427,7 +427,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 5
+                  "empty_days": 1
                 }
               ]
             },
@@ -441,6 +441,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Gran Ria E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 54
                 },
                 {
                   "property": "Square B",
@@ -468,6 +475,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 3
                 },
                 {
                   "property": "Canal K",
