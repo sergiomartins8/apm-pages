@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:44:32+00:00",
+  "generated_at": "2026-10-27T19:05:27+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-27",
@@ -142,7 +142,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 14
+                  "empty_days": 1
                 },
                 {
                   "property": "Ria Laço F",
@@ -407,7 +407,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 14
+                  "empty_days": 1
                 },
                 {
                   "property": "Ria Laço F",
@@ -444,10 +444,10 @@
                 },
                 {
                   "property": "Gran Ria E",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 54
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 5,
+                  "empty_days": null
                 },
                 {
                   "property": "Square B",
@@ -502,6 +502,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": null
+                },
+                {
+                  "property": "Gran Ria E",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 52
                 },
                 {
                   "property": "Ruela 96",
@@ -583,6 +590,19 @@
         {
           "team": "Sirlane",
           "days": [
+            {
+              "date": "2026-11-03",
+              "weekday": "Terça",
+              "checkouts": [
+                {
+                  "property": "GreenView D",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 8
+                }
+              ]
+            },
             {
               "date": "2026-11-07",
               "weekday": "Sábado",
