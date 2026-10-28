@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:48:57+00:00",
+  "generated_at": "2026-10-28T10:08:43+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-28",
@@ -448,13 +448,6 @@
                   "nights": 2,
                   "people": 5,
                   "empty_days": null
-                },
-                {
-                  "property": "Square B",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": null
                 }
               ]
             },
@@ -489,6 +482,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 11
+                },
+                {
+                  "property": "Square B",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
