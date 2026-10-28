@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T10:08:43+00:00",
+  "generated_at": "2026-10-28T17:34:06+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-28",
@@ -40,10 +40,10 @@
               "checkouts": [
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal L",
@@ -376,10 +376,10 @@
               "checkouts": [
                 {
                   "property": "Canal I",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 5
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal L",
@@ -430,10 +430,17 @@
                 },
                 {
                   "property": "Canal G",
+                  "back_to_back": true,
+                  "nights": 3,
+                  "people": 2,
+                  "empty_days": null
+                },
+                {
+                  "property": "Canal I",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 3
                 },
                 {
                   "property": "Canal L",
@@ -457,6 +464,13 @@
               "checkouts": [
                 {
                   "property": "Beira Ria 1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 5
+                },
+                {
+                  "property": "Beira Ria 2",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -590,6 +604,19 @@
         {
           "team": "Sirlane",
           "days": [
+            {
+              "date": "2026-11-02",
+              "weekday": "Segunda",
+              "checkouts": [
+                {
+                  "property": "Canal G",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
+            },
             {
               "date": "2026-11-03",
               "weekday": "Terça",
