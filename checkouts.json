@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T07:46:51+00:00",
+  "generated_at": "2026-10-29T14:46:08+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-29",
@@ -142,7 +142,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 10
+                  "empty_days": 2
                 },
                 {
                   "property": "Gran Ria E",
@@ -150,6 +150,13 @@
                   "nights": 2,
                   "people": 5,
                   "empty_days": null
+                },
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 4
                 }
               ]
             }
@@ -421,7 +428,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 6
+                  "empty_days": 1
                 }
               ]
             },
@@ -468,7 +475,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": 10
+                  "empty_days": 2
                 },
                 {
                   "property": "Gran Ria E",
@@ -476,6 +483,13 @@
                   "nights": 2,
                   "people": 5,
                   "empty_days": null
+                },
+                {
+                  "property": "Ria Laço F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 4
                 }
               ]
             },
@@ -588,6 +602,19 @@
                   "empty_days": null
                 }
               ]
+            },
+            {
+              "date": "2026-11-04",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "iConik 3.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                }
+              ]
             }
           ]
         },
@@ -648,6 +675,19 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 8
+                }
+              ]
+            },
+            {
+              "date": "2026-11-04",
+              "weekday": "Quarta",
+              "checkouts": [
+                {
+                  "property": "Canal L",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 5
                 }
               ]
             },
