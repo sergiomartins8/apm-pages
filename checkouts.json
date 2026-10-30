@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T01:27:06+00:00",
+  "generated_at": "2026-10-30T07:52:03+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-30",
@@ -181,10 +181,10 @@
                 },
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal K",
@@ -192,6 +192,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 11
+                },
+                {
+                  "property": "Gloria 1F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 8
                 },
                 {
                   "property": "Square B",
@@ -575,10 +582,10 @@
                 },
                 {
                   "property": "Blanc 28 2.10",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 3
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 2,
+                  "empty_days": null
                 },
                 {
                   "property": "Canal K",
@@ -586,6 +593,13 @@
                   "nights": null,
                   "people": null,
                   "empty_days": 11
+                },
+                {
+                  "property": "Gloria 1F",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 8
                 },
                 {
                   "property": "Square B",
@@ -725,6 +739,13 @@
               "date": "2026-11-02",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "Blanc 28 2.10",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 1
+                },
                 {
                   "property": "Canal G",
                   "back_to_back": false,
