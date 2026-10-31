@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:11:35+00:00",
+  "generated_at": "2026-10-31T07:41:00+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-31",
@@ -177,7 +177,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Blanc 18 1.7 A",
@@ -660,7 +660,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 1
                 },
                 {
                   "property": "Blanc 18 1.7 A",
@@ -855,11 +855,25 @@
               "weekday": "Quarta",
               "checkouts": [
                 {
+                  "property": "Blanc 18 1.6 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Canal L",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
                   "empty_days": 5
+                },
+                {
+                  "property": "Gloria 1D",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
                 }
               ]
             },
