@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T14:00:14+00:00",
+  "generated_at": "2026-10-31T18:08:10+00:00",
   "scopes": {
     "today": {
       "start": "2026-10-31",
@@ -18,10 +18,10 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 6
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 4,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 2.2",
@@ -75,9 +75,9 @@
                 },
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -187,6 +187,13 @@
                   "empty_days": null
                 },
                 {
+                  "property": "Blanc 18 3.6",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
                   "property": "Blanc 7 2.3",
                   "back_to_back": false,
                   "nights": null,
@@ -290,10 +297,10 @@
               "checkouts": [
                 {
                   "property": "iConik 0.1",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
-                  "empty_days": 6
+                  "back_to_back": true,
+                  "nights": 2,
+                  "people": 4,
+                  "empty_days": null
                 },
                 {
                   "property": "iConik 2.2",
@@ -609,9 +616,9 @@
                 },
                 {
                   "property": "Blanc 18 3.6",
-                  "back_to_back": false,
-                  "nights": null,
-                  "people": null,
+                  "back_to_back": true,
+                  "nights": 1,
+                  "people": 2,
                   "empty_days": null
                 },
                 {
@@ -664,6 +671,13 @@
                 },
                 {
                   "property": "Blanc 18 1.7 A",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": null
+                },
+                {
+                  "property": "Blanc 18 3.6",
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
@@ -732,6 +746,13 @@
               "date": "2026-11-02",
               "weekday": "Segunda",
               "checkouts": [
+                {
+                  "property": "iConik 0.1",
+                  "back_to_back": false,
+                  "nights": null,
+                  "people": null,
+                  "empty_days": 4
+                },
                 {
                   "property": "iConik 1.1",
                   "back_to_back": false,
@@ -832,7 +853,7 @@
                   "back_to_back": false,
                   "nights": null,
                   "people": null,
-                  "empty_days": null
+                  "empty_days": 3
                 },
                 {
                   "property": "Canal I",
